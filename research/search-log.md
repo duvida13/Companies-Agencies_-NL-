@@ -41,3 +41,9 @@ Exact strings retained from discovery notes include `Nederland "rope access" "di
 Search-engine route 1 produced irrelevant results in several attempts; route 2 plus direct company-page retrieval was productive. Some websites failed extraction despite indexed service evidence. Preserve such leads and source-quality distinctions rather than interpreting failure as absence of rope access services.
 
 Lessons: supplier/training labels do not rule out an executing crew (Ropetech, Eurosafe, Mennens); localized international service pages do not establish a Dutch crew; historical adverts are discovery evidence, not live jobs; deduplicate rebrands before counting.
+
+## 2026-10-04 — regional and niche follow-up
+
+Added 23 records, reaching 86. Explored province/city searches plus telecom, E&I, crane inspection, offshore fire protection, glass roof maintenance, conservation and specialist cleaning. Resolved GAP IPP and Van der Leeuw, and recorded foreign/homonym/partner exclusions in regional evidence. Full Netherlands country-filtered IRATA list inspected in browser across both pages: 27 entries. Member details are selectively inspected; list coverage does not mean every membership category was individually audited.
+
+Representative exact follow-up terms: `Meijerink Technical Services rope access`, `Heights Pure Climbing`, `HPG Projects conservering`, `SCAVES crew rope access`, `Wagenborg Foxdrill rope access`, `Crane Inspection Services rope access`, `SIRON IRATA`, `DutchDetect abseil`, `SSB Bouman rope access`, `Aarden glazenwasserij IRATA`, `Nijhuis Reiniging rope access`. These are representative, not a complete reproducible transcript. Search engine 1 again produced substantial unrelated matches; engine 2 and direct official sources were more productive. Future batches should store exact query strings as they run, rather than reconstructing them afterward.

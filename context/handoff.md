@@ -1,18 +1,18 @@
 # Current status and next actions
 
-Updated 2026-10-04. GitHub is the sole project store; do not reintroduce Obsidian, local sync or user downloads.
+GitHub is the sole store. Do not reintroduce Obsidian, user downloads or local sync requirements. Sources reviewed 4 October 2026.
 
-Register: 63 organizations, NL-ORG-0001–0063. 50 contractor/service-provider records, 10 agencies/platforms, 3 international providers with explicit scope limitations. Next unused ID: NL-ORG-0064. Read latest repository before allocating IDs.
+86 organizational records: 71 contractors/service providers, 10 agencies/platforms, 5 international providers. Stable IDs NL-ORG-0001–0086; next ID NL-ORG-0087. Read latest GitHub before allocating IDs. Directory counts are organizational records, not independent crews, legal entities, live vacancies or a market census.
 
-Extensive research added 47 records. Stable initial IDs retained. Directory is a substantially expanded first research pass, not exhaustive. Main README is concise; record limitations in directory/netherlands.md; evidence and unresolved queue in research/.
+Regional/niche research added 23 records. Complete Netherlands country-filtered IRATA register inspected: 27 entries; three training-only entities retained in ecosystem audit, Brand's two entities grouped, and remaining entries represented in directory after OrangeDrill, CIS, Foxdrill and Hanab additions.
 
-## Next discovery and verification
+## Next actions
 
-1. Resolve candidate queue: small contractors, agency recruitment, predecessor identities and failed extractions.
-2. Search systematically by province/municipality and niche (telecom, arboricultural/urban access, facade cleaning, maritime, wind, lifting and mechanical shutdowns). Record queries and newly found organizations per route.
-3. Cross-check full IRATA operator membership lists; absence is not exclusion because not every contractor is a member.
-4. Verify unknown towns, legal entities and public recruitment routes. Confirm current vacancies separately; do not infer L1 eligibility from generic services.
-5. Resolve shared operations (Sky-Access/LSB; Mundo/SHS) before interpreting organization count as independent employers.
-6. Measure diminishing discovery yield across different sources; never promise completeness from a fixed target count.
+1. Resolve review queue and social-only/small-company leads; extraction failure is not negative evidence.
+2. Deepen region searches and recruitment sources. Province queries were exploratory, not exhaustive municipal crawls.
+3. Review member detail pages to record operator/trainer status and current public contact routes; register-list presence alone does not establish category.
+4. Resolve partners/shared crews and historical trading names before interpreting counts as distinct employers.
+5. Verify live opportunities separately, including trade, NDT, offshore and language requirements.
+6. Benchmark any model classifier on retained/ambiguous/rejected cases before automating filtering. Keep unclear cases for review. No Jev or paid crawler/API configured; manual discovery remains productive.
 
-Available tools used: web search/page reading and GitHub connector. No Jev, Firecrawl, Serper or recurring automation configured. Classification is manually reviewed; no automated discard pipeline. Preserve existing methodology and schema; publish directory, CSV, evidence and handoff together.
+Read README for concise list; directory/netherlands.md for evidence and limitations; research/ for coverage, member audit, rejected matches and unresolved queue. Publish CSV, both directory views, evidence and context together.

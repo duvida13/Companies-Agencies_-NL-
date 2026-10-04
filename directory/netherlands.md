@@ -1,6 +1,6 @@
 # Detailed Netherlands directory
 
-63 evidence-supported organizational records. Review date: 2026-10-04. IDs retained from the initial register. Publication/crawl dates are not treated as current operating or hiring confirmation.
+86 evidence-supported organizational records. Review date: 2026-10-04. IDs retained from the initial register. Publication/crawl dates are not treated as current operating or hiring confirmation.
 
 ## NL-ORG-0001 — Adrison BV
 
@@ -74,7 +74,7 @@
 
 ## NL-ORG-0008 — Scart BV
 
-- **Location / connection:** Netherlands; town needs verification — Dutch organization / service presence.
+- **Location / connection:** Arnhem — Dutch organization / service presence.
 - **Type / activities:** Contractor / service provider; Rope access; wind/offshore maintenance; events.
 - **Delivery/staffing evidence:** Experienced team performing projects described.
 - **IRATA evidence:** IRATA standard stated; company membership unverified.
@@ -335,7 +335,7 @@
 - **Public route:** [Website / careers](https://www.werkenbijeurosafe.nl/afdelingen/rope-access).
 - **Primary evidence:** https://www.werkenbijeurosafe.nl/afdelingen/rope-access (Primary company page).
 - **Status / limits:** Training access does not guarantee employment; R3B aliases need legal follow-up.
-- **Relationships:** Rope Access Benelux/R3B possible aliases; legal identity follow-up.
+- **Relationships:** Rope Access Benelux / R3B Safety & Rescue appear as historical trading names in Eurosafe certificate; certificate expired July 2026, not current certification evidence.
 
 ## NL-ORG-0034 — Insight Access
 
@@ -641,4 +641,239 @@
 - **Public route:** [Website / careers](https://jobs.swire-re.com/).
 - **Primary evidence:** https://jobs.swire-re.com/o/blade-repair-technicians-summer-project-opportunity (Primary company page).
 - **Status / limits:** Undated June–August project; not a current October vacancy or Dutch HQ claim.
+
+## NL-ORG-0064 — GAP International Pipeline Projects BV
+
+- **Location / connection:** Nieuwleusen; Oud-Beijerland — Dutch organizational / project presence evidenced.
+- **Type / activities:** Industrial contractor; Rope access; industrial maintenance; wind; telecom masts.
+- **Delivery/staffing evidence:** Own rope access service described since 2023.
+- **IRATA evidence:** GWO methods stated; IRATA requirements not established.
+- **Public route:** [Contact](mailto:info@gap-ipp.nl).
+- **Primary evidence:** https://gap-ipp.nl/diensten/rope-access/ (Primary company page).
+- **Status / limits:** Services advertised; current vacancies unverified.
+
+## NL-ORG-0065 — Meijerink Technical Services
+
+- **Location / connection:** Bolsward — Dutch organizational / project presence evidenced.
+- **Type / activities:** Industrial contractor; Rope access; electrical/instrumentation; testing; offshore maintenance.
+- **Delivery/staffing evidence:** Company explicitly performs work at height using rope access.
+- **IRATA evidence:** Not established in reviewed page.
+- **Public route:** [Contact](mailto:info@mts.frl).
+- **Primary evidence:** https://meijerinkts.nl/ (Primary company page).
+- **Status / limits:** Services advertised; current vacancies unverified.
+
+## NL-ORG-0066 — Van der Leeuw Support
+
+- **Location / connection:** Landgraaf; older company profile lists Nuth — Dutch organizational / project presence evidenced.
+- **Type / activities:** Contractor / service provider; Rope access; rigging; rescue; PPE inspection.
+- **Delivery/staffing evidence:** Own rope access technicians advertised on company site.
+- **IRATA evidence:** IRATA listed in company-authored LinkedIn specialisms; membership unverified.
+- **Public route:** [Contact](mailto:info@vdlsupport.com).
+- **Primary evidence:** https://vdlsupport.com/ (Primary company page).
+- **Status / limits:** Latest website location retained; older profile location differs.
+
+## NL-ORG-0067 — Heights Pure Climbing
+
+- **Location / connection:** Utrecht — Dutch organizational / project presence evidenced.
+- **Type / activities:** Contractor / training; Rope access; work at height; rescue standby; training.
+- **Delivery/staffing evidence:** Company describes executing work and providing rescue teams.
+- **IRATA evidence:** Owner IRATA level 3 stated; not a company membership claim.
+- **Public route:** [Contact](mailto:info@heights-pureclimbing.nl).
+- **Primary evidence:** https://heights-pureclimbing.nl/over-ons/ (Primary company page).
+- **Status / limits:** Services advertised; team size and hiring unverified.
+
+## NL-ORG-0068 — HPG Projects
+
+- **Location / connection:** Alkmaar — Dutch organizational / project presence evidenced.
+- **Type / activities:** Industrial contractor; Rope access; conservation; coating; blasting; structural inspection.
+- **Delivery/staffing evidence:** Deploys certified rope access specialists on conservation projects.
+- **IRATA evidence:** Not established in reviewed page.
+- **Public route:** [Contact](mailto:info@hpgprojects.nl).
+- **Primary evidence:** https://www.hpgprojects.nl/conservering (Primary company page).
+- **Status / limits:** Direct employment versus subcontracting unclear.
+
+## NL-ORG-0069 — Industrial Access Services BV / IAS Group
+
+- **Location / connection:** Amsterdam — Dutch organizational / project presence evidenced.
+- **Type / activities:** Contractor / service provider; Rope access; industrial rescue; specialist access projects.
+- **Delivery/staffing evidence:** Company-authored profile advertises rope access and rescue activities.
+- **IRATA evidence:** Not established in reviewed profile.
+- **Public route:** [Website / careers](https://nl.linkedin.com/company/industrial-access-services).
+- **Primary evidence:** https://nl.linkedin.com/company/industrial-access-services (Company-authored social profile/posts).
+- **Status / limits:** Website retrieval failed; current crew and hiring unverified; company-authored social evidence.
+- **Relationships:** IAS Green / IAS Blue / IAS Special Projects included; unrelated foreign same-name operators excluded.
+
+## NL-ORG-0070 — SCAVES / C.R.E.W.
+
+- **Location / connection:** Schoonebeek — Dutch organizational / project presence evidenced.
+- **Type / activities:** Industrial contractor; Rope access; tank inspection; confined space; rescue; installation.
+- **Delivery/staffing evidence:** Own IRATA technicians and industrial project execution described.
+- **IRATA evidence:** IRATA technicians expressly stated; membership unverified.
+- **Public route:** [Contact](mailto:Info@scaves.nl).
+- **Primary evidence:** https://scaves.nl/crew/ (Primary company page).
+- **Status / limits:** C.R.E.W. service included once; similarly named CREW listing relationship unresolved.
+- **Relationships:** C.R.E.W. service within SCAVES; similarly named CREW Rope Access directory clue remains unresolved.
+
+## NL-ORG-0071 — ALKA Project Support BV
+
+- **Location / connection:** Netherlands; town requires verification — Dutch organizational / project presence evidenced.
+- **Type / activities:** Industrial contractor; Rope access; offshore maintenance; coating; rigging; vessel work.
+- **Delivery/staffing evidence:** Own teams of rope access specialists described.
+- **IRATA evidence:** IRATA and GWO personnel claimed; membership unverified.
+- **Public route:** [Contact](mailto:info@alkaprojectsupport.nl).
+- **Primary evidence:** https://www.alkaprojectsupport.nl/ (Primary company page).
+- **Status / limits:** Services advertised; current vacancies and legal office town unverified.
+
+## NL-ORG-0072 — Wagenborg Foxdrill
+
+- **Location / connection:** Oldenzaal — Dutch organizational / project presence evidenced.
+- **Type / activities:** Industrial contractor; Rope access; rigging; bolting; NDT; structural repairs; derrick work.
+- **Delivery/staffing evidence:** Own rope access crews and technical execution described.
+- **IRATA evidence:** IRATA directory 5014/O Full Operator independently reviewed.
+- **Public route:** [Contact](mailto:foxdrill@wagenborg.com).
+- **Primary evidence:** https://www.foxdrill.com/rope-access (Primary company page).
+- **Status / limits:** Services and operator listing verified; hiring unverified.
+
+## NL-ORG-0073 — Crane Inspection Services BV / 2GO Access
+
+- **Location / connection:** Heerhugowaard — Dutch organizational / project presence evidenced.
+- **Type / activities:** Inspection contractor; Rope access; NDT; crane inspection; offshore repairs; rigging.
+- **Delivery/staffing evidence:** Own technicians and operating services described.
+- **IRATA evidence:** Listed in Netherlands IRATA register; company membership also claimed.
+- **Public route:** [Website / careers](https://www.crane-inspection-services.nl/contact.html).
+- **Primary evidence:** https://www.crane-inspection-services.nl/ (Primary company page).
+- **Status / limits:** EEIS drone partnership does not establish a second independent RA employer.
+- **Relationships:** EEIS drone inspection partner; not the unrelated immigration company at cis-bv.com.
+
+## NL-ORG-0074 — Arquée GmbH
+
+- **Location / connection:** Austria; Netherlands base claimed; town unverified — Netherlands base claimed by company; foreign headquarters.
+- **Type / activities:** International provider — NL base claimed; Rope access; wind; inspection; rigging; offshore work.
+- **Delivery/staffing evidence:** Company advertises its own specialists and a Netherlands base.
+- **IRATA evidence:** IRATA personnel stated; membership unverified.
+- **Public route:** [Website / careers](https://arquee.com/).
+- **Primary evidence:** https://arquee.com/ (Primary company page).
+- **Status / limits:** Dutch base claim lacks reviewed local address or recruitment route.
+
+## NL-ORG-0075 — IBERAT / Iberican Rope Access Technique SL
+
+- **Location / connection:** Spain; Netherlands base claimed; town unverified — Netherlands base claimed by company; foreign headquarters.
+- **Type / activities:** International provider — NL base claimed; Rope access; industrial maintenance; wind; maritime work.
+- **Delivery/staffing evidence:** Company advertises rope access execution and Netherlands base.
+- **IRATA evidence:** Company claims IRATA 5102/O; independent verification pending.
+- **Public route:** [Contact](mailto:info@iberatropeaccess.com).
+- **Primary evidence:** https://www.iberatropeaccess.com/index.html (Primary company page).
+- **Status / limits:** Dutch base claim lacks reviewed local address or recruitment route.
+
+## NL-ORG-0076 — WL Winet BV
+
+- **Location / connection:** Eindhoven — Dutch organizational / project presence evidenced.
+- **Type / activities:** Contractor / staffing; Telecom installations; rope access specialists; lifting; winching.
+- **Delivery/staffing evidence:** In-house specialist teams and personnel supply described.
+- **IRATA evidence:** IRATA abseil certification for specialists claimed; membership unverified.
+- **Public route:** [Contact](mailto:info@wlwinet.com).
+- **Primary evidence:** https://www.wlwinet.com/detachering-specialisten/ (Primary company page).
+- **Status / limits:** Undated site with older footer; current staffing availability unverified.
+
+## NL-ORG-0077 — Vinçotte Nederland / Kiwa
+
+- **Location / connection:** Netherlands; Rotterdam project region; office town unverified — Dutch organizational / project presence evidenced.
+- **Type / activities:** Inspection contractor; NDT; petrochemical inspection; rope access-qualified technicians.
+- **Delivery/staffing evidence:** Official company recruitment route seeks NDT technicians with IRATA or willingness to train.
+- **IRATA evidence:** IRATA qualification or training referenced in employer-authored role.
+- **Public route:** [Website / careers](https://careers.kiwa.com/nl/vacatures/ndo-technicus--regio-rotterdam/).
+- **Primary evidence:** https://careers.kiwa.com/nl/vacatures/ndo-technicus--regio-rotterdam/ (Primary company page).
+- **Status / limits:** NDT trade skills required; generic L1 eligibility and live availability unverified.
+
+## NL-ORG-0078 — SIRON BV / SIRON Fire Protection
+
+- **Location / connection:** Enschede — Dutch organizational / project presence evidenced.
+- **Type / activities:** Industrial contractor; Offshore fire protection; deluge testing; maintenance; inspection.
+- **Delivery/staffing evidence:** Own offshore technical recruitment describes rope access experience.
+- **IRATA evidence:** IRATA level 1 experience an advantage in reviewed role; no membership claim.
+- **Public route:** [Website / careers](https://siron.eu/careers-at-siron/).
+- **Primary evidence:** https://siron.eu/careers-at-siron/ (Primary company page).
+- **Status / limits:** Undated recruitment page; current availability unverified; mechanical skills relevant.
+
+## NL-ORG-0079 — DutchDetect BV
+
+- **Location / connection:** Netherlands; town unverified — Dutch organizational / project presence evidenced.
+- **Type / activities:** Inspection contractor; Abseil inspection; facade/roof leak detection; drone inspection.
+- **Delivery/staffing evidence:** Own abseilers and combined building inspection service described.
+- **IRATA evidence:** IRATA-certified abseilers claimed; membership unverified.
+- **Public route:** [Contact](mailto:info@dutchdetect.nl).
+- **Primary evidence:** https://www.dutchdetect.nl/lekdetectie-op-hoogte/abseil-en-drone-inspecties (Primary company page).
+- **Status / limits:** Nationwide project coverage does not establish headquarters; hiring unverified.
+
+## NL-ORG-0080 — 67 Solutions BV
+
+- **Location / connection:** Schiedam — Dutch organizational / project presence evidenced.
+- **Type / activities:** Inspection contractor; Rope access; NDT; coating inspection; QA/QC; drones.
+- **Delivery/staffing evidence:** Rope access explicitly listed among inspection services.
+- **IRATA evidence:** Not established in reviewed page.
+- **Public route:** [Contact](mailto:Info@67solutions.com).
+- **Primary evidence:** https://www.67solutions.nl/services/ (Primary company page).
+- **Status / limits:** Own crew versus outsourced access unclear; service-page detail limited.
+
+## NL-ORG-0081 — Octatube Services
+
+- **Location / connection:** Netherlands; Amsterdam project evidenced; office town unverified — Dutch organizational / project presence evidenced.
+- **Type / activities:** Contractor / service provider; Rope access; glass roof maintenance; inspection; panel replacement.
+- **Delivery/staffing evidence:** Project page explicitly describes own team working with rope access.
+- **IRATA evidence:** Not established in reviewed project.
+- **Public route:** [Website / careers](https://octatubeservices.nl/projecten/rokin-49-amsterdam/).
+- **Primary evidence:** https://octatubeservices.nl/projecten/rokin-49-amsterdam/ (Primary company page).
+- **Status / limits:** Project evidence establishes execution; office address and hiring unverified.
+
+## NL-ORG-0082 — SSB Bouman / SSB Offshore
+
+- **Location / connection:** Hoogeveen — Dutch organizational / project presence evidenced.
+- **Type / activities:** Industrial contractor; Rope access; offshore blasting/coating; steel conservation.
+- **Delivery/staffing evidence:** Company describes its own crew and rope access among work methods.
+- **IRATA evidence:** Not established in reviewed page.
+- **Public route:** [Contact](mailto:info@ssbbouman.nl).
+- **Primary evidence:** https://www.ssbbouman.nl/ (Primary company page).
+- **Status / limits:** SealteQ group relationship noted; hiring unverified.
+- **Relationships:** SealteQ group acquisition referenced on company homepage; group not counted separately.
+
+## NL-ORG-0083 — Aarden Glazenwasserij
+
+- **Location / connection:** Capelle aan den IJssel — Dutch organizational / project presence evidenced.
+- **Type / activities:** Contractor; Rope access; window and facade cleaning.
+- **Delivery/staffing evidence:** Own IRATA-trained window cleaners and abseil methods described.
+- **IRATA evidence:** IRATA personnel certification claimed; not company membership evidence.
+- **Public route:** [Contact](mailto:info@aardenglazenwasserij.nl).
+- **Primary evidence:** https://aardenglazenwasserij.nl/glasbewassing (Primary company page).
+- **Status / limits:** Building-cleaning scope; current vacancies unverified.
+
+## NL-ORG-0084 — Nijhuis Reiniging
+
+- **Location / connection:** Almelo — Dutch organizational / project presence evidenced.
+- **Type / activities:** Contractor; Industrial cleaning; rope access; silo and confined-space cleaning.
+- **Delivery/staffing evidence:** Company-authored posts describe its own rope access cleaning crew.
+- **IRATA evidence:** Not established in reviewed company material.
+- **Public route:** [Contact](mailto:info@nijhuisreiniging.nl).
+- **Primary evidence:** https://nl.linkedin.com/company/nijhuis-reiniging (Company-authored social profile/posts).
+- **Status / limits:** Company-authored social evidence; website retrieval failed; membership and hiring unverified.
+
+## NL-ORG-0085 — OrangeDrill NV
+
+- **Location / connection:** Pernis — Dutch organizational / project presence evidenced.
+- **Type / activities:** Industrial contractor; Rope access; operator services; detailed activities require follow-up.
+- **Delivery/staffing evidence:** Authoritative directory lists Dutch rope access operator.
+- **IRATA evidence:** IRATA 5132/O Probationary Operator independently reviewed.
+- **Public route:** [Website / careers](https://irata.org/members/details/orangedrill-nv).
+- **Primary evidence:** https://irata.org/members/details/orangedrill-nv (Authoritative IRATA directory).
+- **Status / limits:** Company website inaccessible; probationary status preserved; hiring unverified.
+
+## NL-ORG-0086 — Hanab Telecom Network Solutions / Connectivity Solutions
+
+- **Location / connection:** Lieren — Dutch organization; Lieren address in IRATA directory.
+- **Type / activities:** Industrial contractor; Rope access; telecom mast work; antenna installation/removal; maintenance.
+- **Delivery/staffing evidence:** Company describes a small own IRATA team performing specialist mast access.
+- **IRATA evidence:** IRATA 5126/O Probationary Operator independently reviewed.
+- **Public route:** [Website / careers](https://www.hanab.nl/en/news/elevated-safety).
+- **Primary evidence:** https://www.hanab.nl/en/news/elevated-safety (Primary company page plus authoritative IRATA directory).
+- **Status / limits:** Own team evidenced; current recruitment unverified; probationary status preserved.
+- **Relationships:** Former VolkerWessels Telecom; renamed Hanab divisions from January 2025; not counted separately.
 
