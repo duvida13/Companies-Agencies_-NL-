@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-04",
+  "scope": "Exact final follow-up queries; earlier regional searches are representative only in the Markdown log",
+  "queries": [
+    {
+      "query": "site:twerkt.nl \"rope access\"",
+      "engine": "system2",
+      "outcome": "No new directory record verified"
+    },
+    {
+      "query": "site:amanos.nl IRATA",
+      "engine": "system2",
+      "outcome": "No new directory record verified"
+    },
+    {
+      "query": "site:arrowflex.nl \"IRATA\"",
+      "engine": "system2",
+      "outcome": "No new directory record verified"
+    },
+    {
+      "query": "\"ATLAS Rope Access\" Krommenie",
+      "engine": "system2",
+      "outcome": "ATLAS identity clues; no primary execution verification"
+    },
+    {
+      "query": "\"Amanos\" \"IRATA\"",
+      "engine": "system1",
+      "outcome": "No new directory record verified"
+    },
+    {
+      "query": "\"twerkt\" \"rope access\"",
+      "engine": "system1",
+      "outcome": "Company-authored t Werkt profile found; specific RA deployment remains unresolved"
+    },
+    {
+      "query": "\"Arrowflex\" \"rope access\"",
+      "engine": "system1",
+      "outcome": "No new directory record verified"
+    }
+  ]
+}

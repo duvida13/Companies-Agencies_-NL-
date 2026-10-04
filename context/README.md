@@ -9,6 +9,10 @@ The [repository homepage](../README.md) is the concise company list. This sectio
 - [Initial evidence](../research/evidence/2026-10-04-initial.md)
 - [Expanded evidence](../research/evidence/2026-10-04-expanded.md)
 - [Extensive research evidence](../research/evidence/2026-10-04-extensive.md)
+- [Regional and niche evidence](../research/evidence/2026-10-04-regional.md)
+- [Dutch IRATA member-list audit](../research/irata-netherlands-audit.md)
+- [Classifier benchmark cases](../research/classifier-benchmark.md)
+- [Exact follow-up queries](../research/queries/2026-10-04-follow-up.json)
 - [Coverage and remaining gaps](../research/coverage.md)
 - [Unresolved leads](../research/leads.md)
 

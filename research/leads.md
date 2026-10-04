@@ -15,7 +15,7 @@ Not included in the directory count. Generic LinkedIn/KvK URLs below are discove
 | Rope Access Spruit | https://www.kvk.nl/ | Directory clue Groningen/KvK81768850; verify current operating primary source |
 | BG Rope Access | https://www.kvk.nl/ | Directory clue Amsterdam/KvK27312171; verify primary operation |
 | Amanos Uitzendbureau | https://www.linkedin.com/ | IRATA staffing social clue; confirm live company website and Dutch identity |
-| ’t Werkt BV | https://twerkt.nl/ | NDT staffing site plus RA social mentions; confirm RA technician staffing explicitly |
+| ’t Werkt BV | https://twerkt.nl/ | Own company profile names NDT, Offshore & Rope Access; current site confirms NDT staffing. Beusichem profile; recruitment@twerkt.nl. Specific RA deployment/technician role still unverified |
 | Chinook Schoonmaak | https://chinookschoonmaak.nl/oplossingen/rope-access-schoonmaak/ | Confirm own execution versus subcontracted service and registered location |
 | Lapwing Partners | https://www.lapwingpartners.com/services/rope-access/ | Partner link to Rope Access Rotterdam; verify independent employer before adding |
 | SafetyPro / Industrieel Klimmen | https://www.industrieelklimmen.nl/ | Training/equipment ecosystem; project execution not established |
