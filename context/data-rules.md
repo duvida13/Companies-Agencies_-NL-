@@ -30,3 +30,12 @@ Additional sources and concise excerpts belong in research/evidence. Resolve ali
 7. Publish and read back the changed files to verify.
 
 Current public fields contain no personal application data. No automated daily task, API pipeline or homepage generator is configured yet.
+
+## Extended fields (extensive research batch)
+
+- `organization_type`: contractor, industrial provider, agency/platform or international provider; hybrid roles remain explicit.
+- `nl_connection`: Dutch organizational presence versus NL project versus local delivery uncertainty.
+- `evidence_quality`: company page, indexed company page, company-authored social material or authoritative directory.
+- `related_organizations`: aliases, partnerships and unresolved identity relationships.
+
+The count represents organizational records, not independent operating teams or certified legal entities. The international section is kept separate from Dutch employers. No confidence percentages are generated without calibrated validation.

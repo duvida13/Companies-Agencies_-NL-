@@ -1,18 +1,27 @@
 # Unresolved leads and review queue
 
-Not included in the 16-record count until verified.
+Not included in the directory count. Generic LinkedIn/KvK URLs below are discovery routes, not source citations; these leads are deliberately unverified.
 
-| Lead | Evidence already encountered | Next action |
+| Lead | Discovery route | Required verification |
 |---|---|---|
-| Bilfinger Height Specialists | Indexed primary rope access service page; direct retrieval returned 502 | Retry https://www.bilfinger.com/nl/nl/over-ons/bilfinger-in-nederland/rope-access/ or another primary page |
-| Rope Access Nederland | Indexed primary site and brochures | Review https://www.rope-access.nl/ and confirm current operation/location |
-| Height Safety Expert | Partner listed on SHS site | Check direct rope access execution versus training/equipment role |
-| Industrieel Klimmen / SafetyPro | Indexed training/equipment site and integration announcement | Verify current brand/legal identity and any project execution capability |
-| Fervent Services | Indexed company profile mentioning rope access specialists | Locate primary website and verify services/location |
+| Rope Access Nederland | https://www.rope-access.nl/ | Current status and possible predecessor link to Rope Access Group; old page content insufficient for separate current record |
+| SGS Netherlands | https://www.sgs.com/nl-nl/services/industrial-rope-access | Localized page describes Singapore capability; establish Dutch RA delivery |
+| Arrowflex | https://www.arrowflex.nl/en/employers/ | Brand RA planner testimonial; confirm recruitment of RA technicians |
+| Aerial Access | https://aerial-access.com/faq/ | Retrieve primary service/identity/contact evidence |
+| Multimetaal | https://multimetaal.com/portfolio/inspectie-en-reparatie/ | Determine own rope access technicians versus subcontractor |
+| IKM Hendrik Veder | https://www.ikm.com/ikm-hendrik-veder/ | Older RA references; verify current capability after site/identity changes |
+| Oostendorp Apparatenbouw | https://www.oostendorp.com/nl/missie-visie/vacatures-apparatenbouw/ | Historic third-party RA technician vacancy; find employer-authored evidence; no vacancies now does not exclude contractor |
+| Van der Leeuw Rope Access Support | https://www.linkedin.com/ | Locate company-authored profile/site; verify Nuth base and current delivery |
+| Access & Testing Services BV | https://www.linkedin.com/ | Person-profile clue only; verify company identity and project execution |
+| Rope Access Spruit | https://www.kvk.nl/ | Directory clue Groningen/KvK81768850; verify current operating primary source |
+| BG Rope Access | https://www.kvk.nl/ | Directory clue Amsterdam/KvK27312171; verify primary operation |
+| Amanos Uitzendbureau | https://www.linkedin.com/ | IRATA staffing social clue; confirm live company website and Dutch identity |
+| ’t Werkt BV | https://twerkt.nl/ | NDT staffing site plus RA social mentions; confirm RA technician staffing explicitly |
+| Chinook Schoonmaak | https://chinookschoonmaak.nl/oplossingen/rope-access-schoonmaak/ | Confirm own execution versus subcontracted service and registered location |
+| GAP International Pipeline Projects | https://gap-ipp.nl/diensten/rope-access/ | Indexed primary RA statements; direct service extraction failed; verify town and team |
+| Lapwing Partners | https://www.lapwingpartners.com/services/rope-access/ | Partner link to Rope Access Rotterdam; verify independent employer before adding |
+| SafetyPro / Industrieel Klimmen | https://www.industrieelklimmen.nl/ | Training/equipment ecosystem; project execution not established |
+| Height Safety Expert | https://nl.shs-ropeaccess.com/ | SHS partner; establish training/equipment versus execution |
+| Venko | https://www.beis.com/nl/ | Resolve Brand/group identity before counting separately |
 
-## Existing record follow-up
-
-ACS (NL-ORG-0014): inconsistent retrieval; verify certification, town and recruitment.
-Mundo/SHS: partnership confirmed; legal/group relationship unresolved.
-Town/address unknown: Scart, Rope Access Rotterdam, Life Line Solutions, Climbing Solutions, ACS, Rope Access Plus; WIKO branches need checking.
-Hiring: advertised capabilities alone do not establish current vacancies or L1 acceptance.
+Existing records also require follow-up where towns, team location, membership, legal identity or recruitment are marked unknown. Resolved earlier leads Bilfinger and Fervent are now in the register.
