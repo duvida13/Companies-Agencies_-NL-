@@ -2,6 +2,8 @@
 
 **86 organizations: 71 contractors/service providers, 10 agencies/platforms and 5 international providers.** Sources reviewed 4 October 2026. Expanded from 16; not an exhaustive market census.
 
+[Rotterdam bicycle visits](outreach/rotterdam-visits.md) · [Phones & emails — all 86](outreach/contacts.md)
+
 [Detailed evidence and limitations](directory/netherlands.md) · [Research & context](context/README.md) · [CSV register](data/companies.csv) · [Unresolved leads](research/leads.md)
 
 Company services and staffing evidence are separate from current vacancies. A service contact is not necessarily recruitment. Unknown locations and certification remain explicit. Agencies with only foreign rope access roles are marked; international providers below are not counted as Dutch employers.

@@ -1,0 +1,1408 @@
+[
+  {
+    "organization_id": "NL-ORG-0001",
+    "organization_name": "Adrison BV",
+    "directory_location": "Eindhoven",
+    "phones": [
+      "+31 40 7114505"
+    ],
+    "emails": [
+      "info@adrison.com"
+    ],
+    "contact_type": "Agency inbox",
+    "source_urls": [
+      "https://www.adrison.com"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0002",
+    "organization_name": "Rope Access Noord",
+    "directory_location": "Groningen",
+    "phones": [
+      "+31 50 5290857",
+      "+31 50 2115222"
+    ],
+    "emails": [
+      "service@ropeaccessnoord.nl"
+    ],
+    "contact_type": "Recruitment routing; ask for industrial crew",
+    "source_urls": [
+      "https://ropeaccessnoord.nl/vacatures"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0003",
+    "organization_name": "Mundo Steigers International",
+    "directory_location": "Spijkenisse",
+    "phones": [
+      "+31 181 627773"
+    ],
+    "emails": [
+      "info@mundo-steigers.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.mundo-steigers.nl/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0004",
+    "organization_name": "SHS – Special Height Service",
+    "directory_location": "Spijkenisse",
+    "phones": [],
+    "emails": [
+      "info@shs-ropeaccess.com"
+    ],
+    "contact_type": "General; retained from 4 October review",
+    "source_urls": [
+      "https://nl.shs-ropeaccess.com/"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0005",
+    "organization_name": "Mennens Nederland",
+    "directory_location": "Vlaardingen (Rotterdam branch)",
+    "phones": [
+      "+31 6 33059477"
+    ],
+    "emails": [
+      "jobs@mennens.nl"
+    ],
+    "contact_type": "HR — Moa Lelkes",
+    "source_urls": [
+      "https://vacatures.mennens.nl/contact"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "Heliniumweg 6, 3133 AX Vlaardingen",
+    "visit_address_source": "https://www.mennens.nl/over-ons/onze-vestigingen/mennens-rotterdam",
+    "visit_note": "Priority: lifting/rigging plus rope access; arrange with Moa and confirm relevant team works here"
+  },
+  {
+    "organization_id": "NL-ORG-0006",
+    "organization_name": "MME Group",
+    "directory_location": "Ridderkerk",
+    "phones": [
+      "+31 180 487755"
+    ],
+    "emails": [
+      "jobs@mme-group.com"
+    ],
+    "contact_type": "Recruiter — Mike Bal",
+    "source_urls": [
+      "https://www.mme-group.com/career"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "Rietdekkerstraat 16, 2984 BM Ridderkerk",
+    "visit_address_source": "https://www.mme-group.com/contact/",
+    "visit_note": "Priority recruitment conversation; inspection/NDT training route, current RA L1 opening not confirmed"
+  },
+  {
+    "organization_id": "NL-ORG-0007",
+    "organization_name": "Turris",
+    "directory_location": "Garderen",
+    "phones": [
+      "+31 577 204920"
+    ],
+    "emails": [
+      "info@turris.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.turris.nl/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0008",
+    "organization_name": "Scart BV",
+    "directory_location": "Arnhem",
+    "phones": [
+      "+31 6 13424009",
+      "+31 6 10389020"
+    ],
+    "emails": [
+      "info@scartbv.nl"
+    ],
+    "contact_type": "Business contacts Edwin / Leon",
+    "source_urls": [
+      "https://www.scartbv.nl"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0009",
+    "organization_name": "Rope Access Rotterdam",
+    "directory_location": "Netherlands; base address needs verification",
+    "phones": [
+      "+31 10 2306853",
+      "+31 6 12786987"
+    ],
+    "emails": [
+      "wart@ropeaccessrotterdam.com"
+    ],
+    "contact_type": "Named business contact; not confirmed HR",
+    "source_urls": [
+      "https://www.ropeaccessrotterdam.com/nl/"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "Schieweg 117B2, 3038 AL Rotterdam",
+    "visit_address_source": "https://www.ropeaccessrotterdam.com/nl/",
+    "visit_note": "Optional, appointment only; business address is not confirmed walk-in reception"
+  },
+  {
+    "organization_id": "NL-ORG-0010",
+    "organization_name": "Sky Lines BV",
+    "directory_location": "Schiedam",
+    "phones": [
+      "+31 6 87008787"
+    ],
+    "emails": [
+      "office@sky-lines.nl"
+    ],
+    "contact_type": "General; English/Italian line",
+    "source_urls": [
+      "https://alpineskyline.com/contact/"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0011",
+    "organization_name": "Life Line Solutions",
+    "directory_location": "Netherlands; town needs verification",
+    "phones": [
+      "+31 172 850272"
+    ],
+    "emails": [
+      "info@lifelinesolutions.eu"
+    ],
+    "contact_type": "Published application inbox",
+    "source_urls": [
+      "https://lifelinesolutions.nl/vacature"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0012",
+    "organization_name": "Climbing Solutions",
+    "directory_location": "Netherlands; town needs verification",
+    "phones": [
+      "+31 6 31504339"
+    ],
+    "emails": [
+      "info@climbingsolutions.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://climbingsolutions.nl"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0013",
+    "organization_name": "Access-Specialist",
+    "directory_location": "Emmen",
+    "phones": [
+      "+31 6 14531819"
+    ],
+    "emails": [],
+    "contact_type": "Contact form; email not retrieved",
+    "source_urls": [
+      "https://access-specialist.nl/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0014",
+    "organization_name": "Access Climbing Solutions",
+    "directory_location": "Netherlands; town needs verification",
+    "phones": [
+      "+31 6 14970257"
+    ],
+    "emails": [],
+    "contact_type": "Contact form; email not retrieved",
+    "source_urls": [
+      "https://accessclimbing.com"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0015",
+    "organization_name": "Rope Access Plus",
+    "directory_location": "Bergschenhoek",
+    "phones": [
+      "+31 6 40950544",
+      "+31 6 14284399"
+    ],
+    "emails": [
+      "info@ropeaccessplus.com"
+    ],
+    "contact_type": "Business contacts Julia / Dimitri",
+    "source_urls": [
+      "https://www.ropeaccessplus.com/contact/"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "Rottekade 256, 2661 JX Bergschenhoek",
+    "visit_address_source": "https://www.ropeaccessplus.com/contact/",
+    "visit_note": "Optional, appointment only; small business address, not confirmed public reception"
+  },
+  {
+    "organization_id": "NL-ORG-0016",
+    "organization_name": "WIKO",
+    "directory_location": "Rotterdam",
+    "phones": [
+      "+31 10 4623877"
+    ],
+    "emails": [
+      "info@wiko.nl"
+    ],
+    "contact_type": "General; request rope access recruiter",
+    "source_urls": [
+      "https://www.wiko.nl/contact/"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "Caïrostraat 30, 3047 BC Rotterdam",
+    "visit_address_source": "https://www.wiko.nl/contact/",
+    "visit_note": "Priority: industrial rope access, scaffolding and maintenance; ask for recruitment"
+  },
+  {
+    "organization_id": "NL-ORG-0017",
+    "organization_name": "Brand Energy & Infrastructure Services",
+    "directory_location": "Capelle aan den IJssel",
+    "phones": [
+      "+31 10 4455444",
+      "+31 6 47325776"
+    ],
+    "emails": [
+      "recruitment_nl@brandsafway.com"
+    ],
+    "contact_type": "Recruitment; Dennis Meijer mobile from company job post",
+    "source_urls": [
+      "https://www.beis.com/nl/career/detail/360"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "Rivium Quadrant 209, 2909 LC Capelle aan den IJssel",
+    "visit_address_source": "https://www.beis.com/nl/contact",
+    "visit_note": "Priority: dedicated recruitment; old L1/2 painter/blaster advertisement is offline, not a current opening"
+  },
+  {
+    "organization_id": "NL-ORG-0018",
+    "organization_name": "Jenz Offshore",
+    "directory_location": "Susteren",
+    "phones": [
+      "+31 88 1888150"
+    ],
+    "emails": [
+      "planning@jenz.nl"
+    ],
+    "contact_type": "Staffing operations",
+    "source_urls": [
+      "https://www.jenz.nl/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0019",
+    "organization_name": "Fender Personeelsbemiddeling BV",
+    "directory_location": "Ridderkerk",
+    "phones": [
+      "+31 180 769138"
+    ],
+    "emails": [
+      "info@fenderbv.nl"
+    ],
+    "contact_type": "Agency candidate contact",
+    "source_urls": [
+      "https://fenderbv.nl/contact"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "Havenstraat 4, 2984 AC Ridderkerk",
+    "visit_address_source": "https://fenderbv.nl/contact",
+    "visit_note": "Priority rope access staffing agency; English contact route"
+  },
+  {
+    "organization_id": "NL-ORG-0020",
+    "organization_name": "ATI Abseiltechnieken",
+    "directory_location": "Netherlands; town not verified",
+    "phones": [
+      "+31 513 434025"
+    ],
+    "emails": [
+      "info@abseiltechnieken.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.abseiltechnieken.nl"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0021",
+    "organization_name": "High Work Solutions",
+    "directory_location": "Dordrecht",
+    "phones": [
+      "+31 10 2613497"
+    ],
+    "emails": [
+      "info@highworksolutions.com"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://highworksolutions.com/diensten/technisch-onderhoud"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0022",
+    "organization_name": "Ropacs",
+    "directory_location": "Berg en Terblijt",
+    "phones": [
+      "+31 6 27211010"
+    ],
+    "emails": [
+      "info@ropacs.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://ropacs.com/contact-us"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0023",
+    "organization_name": "ALTRAD Services Benelux",
+    "directory_location": "Netherlands; Drachten recruitment evidenced",
+    "phones": [
+      "+31 10 2958222",
+      "+31 6 16167808",
+      "+31 6 26131821"
+    ],
+    "emails": [],
+    "contact_type": "Careers portal. Joost: Rotterdam industrial roles; Tammy: Drachten rope access role",
+    "source_urls": [
+      "https://bnlaltradservices.recruitee.com/l/en/o/uitvoerder-rope-access-drachten"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "Drutenstraat 18, 3087 CC Rotterdam",
+    "visit_address_source": "https://bnl.altradservices.com/nl/nl/nl/contact.html",
+    "visit_note": "Priority industrial/scaffolding employer; Rotterdam recruiter Joost. RA contact Tammy is attached to a Drachten role"
+  },
+  {
+    "organization_id": "NL-ORG-0024",
+    "organization_name": "Sky-Access BV / Sky-Wind",
+    "directory_location": "Roosendaal; Geleen",
+    "phones": [
+      "+31 88 1233600"
+    ],
+    "emails": [
+      "info@sky-access.com"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://sky-access.com/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0025",
+    "organization_name": "LSB Groep",
+    "directory_location": "Geleen",
+    "phones": [
+      "+31 46 4742410"
+    ],
+    "emails": [
+      "info@lsb-groep.com"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://lsb-groep.com/contact-2"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0026",
+    "organization_name": "Sil-ex BV",
+    "directory_location": "Netherlands; town not verified",
+    "phones": [
+      "+31 6 30792588"
+    ],
+    "emails": [
+      "info@sil-ex.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://sil-ex.nl"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0027",
+    "organization_name": "vandesky BV",
+    "directory_location": "Eindhoven visitor address; Rosmalen postal address",
+    "phones": [
+      "+31 88 6968676"
+    ],
+    "emails": [
+      "info@vandesky.com"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.vandesky.com/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0028",
+    "organization_name": "BUILLT Services",
+    "directory_location": "Eindhoven; Rotterdam; Amsterdam offices stated",
+    "phones": [
+      "+31 499 745475"
+    ],
+    "emails": [
+      "m.vandermee@buillt.nl"
+    ],
+    "contact_type": "HR — Mariëlle van der Mee; open applications",
+    "source_urls": [
+      "https://buillt.nl/werken-bij"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0029",
+    "organization_name": "Applus+ RTD Netherlands",
+    "directory_location": "Netherlands; office town not verified",
+    "phones": [
+      "+31 10 7166000"
+    ],
+    "emails": [
+      "info.netherlands@applus.com"
+    ],
+    "contact_type": "General; ask for NDT/rope access recruiter",
+    "source_urls": [
+      "https://www.applus.com/nl/nl/contact-us/offices"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "Delftweg 144, 3046 NC Rotterdam",
+    "visit_address_source": "https://www.applus.com/nl/nl/contact-us/offices",
+    "visit_note": "Secondary: NDT/inspection; ask about trainee pathway and technician requirements"
+  },
+  {
+    "organization_id": "NL-ORG-0030",
+    "organization_name": "Conbit",
+    "directory_location": "Eindhoven",
+    "phones": [
+      "+31 40 7114505"
+    ],
+    "emails": [
+      "info@conbit.eu"
+    ],
+    "contact_type": "General; same published switchboard as Adrison",
+    "source_urls": [
+      "https://www.conbit.eu/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0031",
+    "organization_name": "ProPakt",
+    "directory_location": "Netherlands; town not verified",
+    "phones": [],
+    "emails": [
+      "contact@propakt.com"
+    ],
+    "contact_type": "Platform contact; Rotterdam address is mailing address only",
+    "source_urls": [
+      "https://propakt.com/uploads/Terms-and-Conditions.pdf"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0032",
+    "organization_name": "Totalis / Total Industrial Support BV",
+    "directory_location": "Susteren; Terneuzen operations",
+    "phones": [
+      "+31 46 4495500"
+    ],
+    "emails": [
+      "info@totalis.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://totalis.nl/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0033",
+    "organization_name": "Eurosafe",
+    "directory_location": "Zwolle; Dordrecht; Zevenbergen",
+    "phones": [
+      "+31 38 4671910"
+    ],
+    "emails": [
+      "werken@eurosafe.eu"
+    ],
+    "contact_type": "Recruitment; phone central switchboard",
+    "source_urls": [
+      "https://www.werkenbijeurosafe.nl/werken-bij"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0034",
+    "organization_name": "Insight Access",
+    "directory_location": "Netherlands; town not verified",
+    "phones": [
+      "+31 85 1301789"
+    ],
+    "emails": [
+      "info@insightaccess.nl"
+    ],
+    "contact_type": "Operations; postal address only",
+    "source_urls": [
+      "https://insightaccess.nl/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0035",
+    "organization_name": "IRAS-Techniek",
+    "directory_location": "Netherlands; town not verified",
+    "phones": [],
+    "emails": [
+      "info@iras-techniek.eu"
+    ],
+    "contact_type": "General; phone not retrieved",
+    "source_urls": [
+      "https://iras-techniek.eu/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0036",
+    "organization_name": "Fervent Services / Fervent Rope Access",
+    "directory_location": "Barendrecht",
+    "phones": [
+      "+31 180 444298"
+    ],
+    "emails": [
+      "info@ferventservices.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.ferventropeaccess.nl/contact/"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "Lubeck 3, 2993 LK Barendrecht",
+    "visit_address_source": "https://www.ferventropeaccess.nl/contact/",
+    "visit_note": "Secondary rope access cleaning/maintenance; arrange project manager meeting"
+  },
+  {
+    "organization_id": "NL-ORG-0037",
+    "organization_name": "TEAM Industrial Services NL / QIS",
+    "directory_location": "Roosendaal; Rotterdam; Drachten",
+    "phones": [
+      "+31 10 4791212"
+    ],
+    "emails": [
+      "planninghoogvliet.nl@teaminc.com"
+    ],
+    "contact_type": "Operations; confirm Rotterdam address due to conflicting website sections",
+    "source_urls": [
+      "https://qis-ndt.nl/nl/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0038",
+    "organization_name": "Cocoon Holland BV",
+    "directory_location": "Hoofddorp",
+    "phones": [
+      "+31 20 6867808"
+    ],
+    "emails": [
+      "info@cocoon.eu"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.cocoon.eu/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0039",
+    "organization_name": "Work Wise Projecten BV",
+    "directory_location": "Netherlands; town not verified",
+    "phones": [
+      "+31 10 2840567"
+    ],
+    "emails": [
+      "info@workwise.eu"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.workwise.eu/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0040",
+    "organization_name": "OCRE Offshore Services BV",
+    "directory_location": "The Hague",
+    "phones": [
+      "+31 70 2400170"
+    ],
+    "emails": [
+      "info@ocre-offshore.com"
+    ],
+    "contact_type": "Agency general",
+    "source_urls": [
+      "https://ocre-offshore.com/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0041",
+    "organization_name": "Oceanwide",
+    "directory_location": "Netherlands; office town not verified",
+    "phones": [
+      "+31 10 6666060",
+      "+31 223 671725"
+    ],
+    "emails": [
+      "info@oceanwidecrew.com",
+      "denhelder@oceanwidecrew.com"
+    ],
+    "contact_type": "Capelle maritime office; Den Helder oil/gas/wind recruitment",
+    "source_urls": [
+      "https://oceanwidecrew.com/contact/"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "Rivium Quadrant 1, 2909 LC Capelle aan den IJssel",
+    "visit_address_source": "https://oceanwidecrew.com/contact/",
+    "visit_note": "Conditional: this office is maritime; oil/gas/wind team is in Den Helder. Confirm local consultant before going"
+  },
+  {
+    "organization_id": "NL-ORG-0042",
+    "organization_name": "Atlas NextWave",
+    "directory_location": "Schiphol headquarters",
+    "phones": [
+      "+31 23 5560420"
+    ],
+    "emails": [
+      "info@atlasnextwave.com"
+    ],
+    "contact_type": "Agency general",
+    "source_urls": [
+      "https://atlasnextwave.com/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0043",
+    "organization_name": "iPS Powerful People",
+    "directory_location": "Capelle aan den IJssel headquarters",
+    "phones": [
+      "+31 88 4479494"
+    ],
+    "emails": [
+      "info@ipspowerfulpeople.com"
+    ],
+    "contact_type": "Agency candidate contact",
+    "source_urls": [
+      "https://ipspowerfulpeople.com/contact/"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "Rivium Westlaan 78, 2909 LD Capelle aan den IJssel",
+    "visit_address_source": "https://ipspowerfulpeople.com/contact/",
+    "visit_note": "Priority agency: ask specifically for Netherlands offshore/industrial L1 and rigging placements"
+  },
+  {
+    "organization_id": "NL-ORG-0044",
+    "organization_name": "OEG Subsea Netherlands / Bluestream",
+    "directory_location": "Den Helder",
+    "phones": [
+      "+31 223 637784"
+    ],
+    "emails": [
+      "careers@bluestreamoffshore.com"
+    ],
+    "contact_type": "Recruitment email from historical company post; reconfirm by phone",
+    "source_urls": [
+      "https://nl.linkedin.com/posts/bluestream-offshore-b.v._bluestream-zoekt-een-keurmeester-persoonlijke-activity-7064509911405064192-0BHu"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0045",
+    "organization_name": "DIRA Group",
+    "directory_location": "The Hague",
+    "phones": [
+      "+31 6 22423070"
+    ],
+    "emails": [],
+    "contact_type": "IRATA public phone; email not retrieved",
+    "source_urls": [
+      "https://irata.org/members/details/dira-group-or-dutch-industrial-rope-access"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0046",
+    "organization_name": "Braspenning Group",
+    "directory_location": "Amsterdam",
+    "phones": [
+      "+31 20 6304320"
+    ],
+    "emails": [
+      "info@braspenning-group.com"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.braspenning-group.com/en/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0047",
+    "organization_name": "Ropetech BV",
+    "directory_location": "Veenendaal",
+    "phones": [
+      "+31 85 0188717"
+    ],
+    "emails": [
+      "info@ropetech.nl"
+    ],
+    "contact_type": "General; visits only by appointment",
+    "source_urls": [
+      "https://ropetech.nl/pages/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0048",
+    "organization_name": "Rope Access Group BV",
+    "directory_location": "Hendrik-Ido-Ambacht",
+    "phones": [
+      "+31 78 6317701"
+    ],
+    "emails": [
+      "info@ropeaccessgroup.com"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.ropeaccessgroup.com/contact/"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "Grotenoord 15, 3341 LT Hendrik-Ido-Ambacht",
+    "visit_address_source": "https://www.ropeaccessgroup.com/contact/",
+    "visit_note": "Optional extension: specialist industrial/offshore rope access contractor; hiring not confirmed"
+  },
+  {
+    "organization_id": "NL-ORG-0049",
+    "organization_name": "SkyPeople",
+    "directory_location": "Gorinchem",
+    "phones": [
+      "+31 183 733100"
+    ],
+    "emails": [
+      "info@sky-people.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://sky-people.nl/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0050",
+    "organization_name": "Bilfinger / Height Specialists",
+    "directory_location": "Netherlands; Bergschenhoek training location",
+    "phones": [
+      "+31 15 2565662"
+    ],
+    "emails": [
+      "mirelle.strik@bilfinger.com"
+    ],
+    "contact_type": "Recruitment — Mirelle Strik",
+    "source_urls": [
+      "https://heightspecialists.com/vacatures/industrieel-vakman/"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "Weg en Land 48, 2661 KR Bergschenhoek",
+    "visit_address_source": "https://heightspecialists.com/vacatures/industrieel-vakman/",
+    "visit_note": "Highest recruitment priority: published industrial-trades route with/without IRATA; check driving licence requirement and appointment"
+  },
+  {
+    "organization_id": "NL-ORG-0051",
+    "organization_name": "Redak Service & Maintenance BV",
+    "directory_location": "Alkmaar",
+    "phones": [
+      "+31 226 426804"
+    ],
+    "emails": [
+      "mail@redak-services.com"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://redak-services.com/contact-en"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0052",
+    "organization_name": "RanaWorks BV",
+    "directory_location": "Capelle aan den IJssel",
+    "phones": [
+      "+31 10 4530523"
+    ],
+    "emails": [
+      "info@ranaworks.com",
+      "rana@ranadiving.it"
+    ],
+    "contact_type": "General; page link/text show different emails — confirm which to use",
+    "source_urls": [
+      "https://www.ranadiving.it/contact"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "Rivium Quadrant 75, 2909 LC Capelle aan den IJssel",
+    "visit_address_source": "https://www.ranadiving.it/contact",
+    "visit_note": "Secondary: phone first; website email text and link disagree"
+  },
+  {
+    "organization_id": "NL-ORG-0053",
+    "organization_name": "FØN Energy Services NL / C-Ventus",
+    "directory_location": "IJmuiden",
+    "phones": [
+      "+31 255 820020"
+    ],
+    "emails": [
+      "info@c-ventus.com"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://c-ventus.com/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0054",
+    "organization_name": "Building Up",
+    "directory_location": "Maassluis registered location",
+    "phones": [
+      "+31 6 43903721",
+      "+31 6 26782165"
+    ],
+    "emails": [
+      "info@building-up.nl",
+      "onderhoud@building-up.nl"
+    ],
+    "contact_type": "Industrial / property-care inboxes",
+    "source_urls": [
+      "https://www.buildinguppropertycare.com/"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0055",
+    "organization_name": "VLR Group BV",
+    "directory_location": "Breda",
+    "phones": [],
+    "emails": [],
+    "contact_type": "No direct phone or email verified; company LinkedIn fallback",
+    "source_urls": [
+      "https://nl.linkedin.com/company/vlr-group-bv"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0056",
+    "organization_name": "Muehlhan BV Netherlands",
+    "directory_location": "Netherlands; office town not verified",
+    "phones": [
+      "+31 10 4264960"
+    ],
+    "emails": [
+      "HR-mnl@muehlhan.com"
+    ],
+    "contact_type": "HR; Dutch industrial services",
+    "source_urls": [
+      "https://muehlhanindustrialservice.com/en/career/voorman-schilders/"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "James Wattweg 26, 3133 KK Vlaardingen",
+    "visit_address_source": "https://irata.org/m/25794/",
+    "visit_note": "Priority: HR inbox available; ask about Dutch industrial rope access crew"
+  },
+  {
+    "organization_id": "NL-ORG-0057",
+    "organization_name": "Cuijpers Services BV",
+    "directory_location": "Weert",
+    "phones": [
+      "+31 495 455855"
+    ],
+    "emails": [
+      "info@cuijpers.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.cuijpers.nl/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0058",
+    "organization_name": "PetroMGroup",
+    "directory_location": "Netherlands; town not verified",
+    "phones": [
+      "+31 10 2307695"
+    ],
+    "emails": [
+      "recruitment@petromgroup.nl"
+    ],
+    "contact_type": "Recruitment — Mustafa Dulda; reviewed NDT role needs more than IRATA L1",
+    "source_urls": [
+      "https://petromgroup.com/offshore-ndo-inspecteurs/"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0059",
+    "organization_name": "Nouvall",
+    "directory_location": "Terneuzen",
+    "phones": [
+      "+31 115 820202"
+    ],
+    "emails": [
+      "info@nouvall.com"
+    ],
+    "contact_type": "Agency general",
+    "source_urls": [
+      "https://nouvall.com/en/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0060",
+    "organization_name": "BCB Cleaning",
+    "directory_location": "Terheijden",
+    "phones": [
+      "+31 6 14833265"
+    ],
+    "emails": [
+      "info@bcbcleaning.nl"
+    ],
+    "contact_type": "General; indexed official site",
+    "source_urls": [
+      "https://www.bcbcleaning.nl"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0061",
+    "organization_name": "MISTRAS Netherlands",
+    "directory_location": "Dutch country site; local RA team not verified",
+    "phones": [
+      "+31 10 2450325"
+    ],
+    "emails": [],
+    "contact_type": "Spijkenisse office; public email not retrieved",
+    "source_urls": [
+      "https://www.mistrasgroup.com/about-us/branches/spijkenisse-the-netherlands/?region=united-kingdom"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0062",
+    "organization_name": "Griesemann Gruppe",
+    "directory_location": "Emmen group office; RA division in Germany",
+    "phones": [
+      "+31 591 637601"
+    ],
+    "emails": [
+      "kontakt@griesemann.com"
+    ],
+    "contact_type": "General; Emmen office does not establish local RA team",
+    "source_urls": [
+      "https://griesemann.com/nl/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0063",
+    "organization_name": "Swire Renewable Energy",
+    "directory_location": "Netherlands project at Middenmeer; international employer",
+    "phones": [
+      "+45 33601500"
+    ],
+    "emails": [
+      "hanne.fynbo@swire-re.com"
+    ],
+    "contact_type": "Business development/manpower routing; NOT HR. International phone listed for Dutch office",
+    "source_urls": [
+      "https://swire-re.com/contact-us/locations-europe"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0064",
+    "organization_name": "GAP International Pipeline Projects BV",
+    "directory_location": "Nieuwleusen; Oud-Beijerland",
+    "phones": [
+      "+31 529 482159",
+      "+31 164 652074"
+    ],
+    "emails": [
+      "info@gap-ipp.nl"
+    ],
+    "contact_type": "General; confirm which number serves which office",
+    "source_urls": [
+      "https://gap-ipp.nl/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0065",
+    "organization_name": "Meijerink Technical Services",
+    "directory_location": "Bolsward",
+    "phones": [
+      "+31 566 700215"
+    ],
+    "emails": [
+      "info@mts.frl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://meijerinkts.nl"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0066",
+    "organization_name": "Van der Leeuw Support",
+    "directory_location": "Landgraaf; older company profile lists Nuth",
+    "phones": [
+      "+31 6 30968344"
+    ],
+    "emails": [
+      "info@vdlsupport.com"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://vdlsupport.com"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0067",
+    "organization_name": "Heights Pure Climbing",
+    "directory_location": "Utrecht",
+    "phones": [
+      "+31 6 37468551"
+    ],
+    "emails": [
+      "info@heights-pureclimbing.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://heights-pureclimbing.nl/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0068",
+    "organization_name": "HPG Projects",
+    "directory_location": "Alkmaar",
+    "phones": [
+      "+31 72 5315666"
+    ],
+    "emails": [
+      "info@hpgprojects.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.hpgprojects.nl/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0069",
+    "organization_name": "Industrial Access Services BV / IAS Group",
+    "directory_location": "Amsterdam",
+    "phones": [],
+    "emails": [],
+    "contact_type": "No direct phone or email verified; company LinkedIn fallback",
+    "source_urls": [
+      "https://nl.linkedin.com/company/industrial-access-services"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0070",
+    "organization_name": "SCAVES / C.R.E.W.",
+    "directory_location": "Schoonebeek",
+    "phones": [
+      "+31 524 532654"
+    ],
+    "emails": [
+      "info@scaves.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://scaves.nl/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0071",
+    "organization_name": "ALKA Project Support BV",
+    "directory_location": "Netherlands; town requires verification",
+    "phones": [
+      "+31 85 2129952"
+    ],
+    "emails": [
+      "info@alkaprojectsupport.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.alkaprojectsupport.nl"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0072",
+    "organization_name": "Wagenborg Foxdrill",
+    "directory_location": "Oldenzaal",
+    "phones": [
+      "+31 541 580500"
+    ],
+    "emails": [
+      "foxdrill@wagenborg.com"
+    ],
+    "contact_type": "General; email retained from 4 October primary review",
+    "source_urls": [
+      "https://www.foxdrill.com/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0073",
+    "organization_name": "Crane Inspection Services BV / 2GO Access",
+    "directory_location": "Heerhugowaard",
+    "phones": [],
+    "emails": [
+      "info@crane-inspections.com"
+    ],
+    "contact_type": "General; phone not retrieved",
+    "source_urls": [
+      "https://www.crane-inspection-services.nl/contact.html"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0074",
+    "organization_name": "Arquée GmbH",
+    "directory_location": "Austria; Netherlands base claimed; town unverified",
+    "phones": [],
+    "emails": [
+      "info@arquee.com"
+    ],
+    "contact_type": "General; phone not retrieved",
+    "source_urls": [
+      "https://arquee.com"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0075",
+    "organization_name": "IBERAT / Iberican Rope Access Technique SL",
+    "directory_location": "Spain; Netherlands base claimed; town unverified",
+    "phones": [
+      "+34 627097513"
+    ],
+    "emails": [
+      "info@iberatropeaccess.com"
+    ],
+    "contact_type": "Spanish office; Dutch project evidence does not mean Dutch office",
+    "source_urls": [
+      "https://www.iberatropeaccess.com/index.html"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0076",
+    "organization_name": "WL Winet BV",
+    "directory_location": "Eindhoven",
+    "phones": [
+      "+31 40 2619774"
+    ],
+    "emails": [
+      "info@wlwinet.com"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.wlwinet.com/en"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0077",
+    "organization_name": "Vinçotte Nederland / Kiwa",
+    "directory_location": "Netherlands; Rotterdam project region; office town unverified",
+    "phones": [
+      "+31 6 23238629"
+    ],
+    "emails": [
+      "NL.HR.industrialinspections@kiwa.com"
+    ],
+    "contact_type": "Recruiter — Danny Brand",
+    "source_urls": [
+      "https://www.vincotte.nl/nl/werken-bij-vincotte"
+    ],
+    "checked_date": "2026-10-05",
+    "visit_address": "Van Riemsdijkweg 12, 3088 HC Rotterdam",
+    "visit_address_source": "https://www.vincotte.nl",
+    "visit_note": "Secondary: NDT recruitment; ask about trainee route, not just IRATA qualification"
+  },
+  {
+    "organization_id": "NL-ORG-0078",
+    "organization_name": "SIRON BV / SIRON Fire Protection",
+    "directory_location": "Enschede",
+    "phones": [
+      "+31 53 7503044"
+    ],
+    "emails": [],
+    "contact_type": "Careers application form; email not retrieved",
+    "source_urls": [
+      "https://siron.eu/careers-at-siron"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0079",
+    "organization_name": "DutchDetect BV",
+    "directory_location": "Netherlands; town unverified",
+    "phones": [
+      "+31 15 3648468"
+    ],
+    "emails": [
+      "info@dutchdetect.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.dutchdetect.nl/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0080",
+    "organization_name": "67 Solutions BV",
+    "directory_location": "Schiedam",
+    "phones": [
+      "+31 10 8453186"
+    ],
+    "emails": [
+      "info@67solutions.com"
+    ],
+    "contact_type": "General; official contact page has conflicting postcodes",
+    "source_urls": [
+      "https://www.67solutions.nl/contact/"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0081",
+    "organization_name": "Octatube Services",
+    "directory_location": "Netherlands; Amsterdam project evidenced; office town unverified",
+    "phones": [
+      "+31 15 7890000"
+    ],
+    "emails": [
+      "services@octatube.nl"
+    ],
+    "contact_type": "General; Delft street address not reverified",
+    "source_urls": [
+      "https://octatubeservices.nl/en/"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0082",
+    "organization_name": "SSB Bouman / SSB Offshore",
+    "directory_location": "Hoogeveen",
+    "phones": [
+      "+31 528 266019"
+    ],
+    "emails": [
+      "info@ssbbouman.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.ssbbouman.nl"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0083",
+    "organization_name": "Aarden Glazenwasserij",
+    "directory_location": "Capelle aan den IJssel",
+    "phones": [
+      "+31 6 53395146"
+    ],
+    "emails": [
+      "info@aardenglazenwasserij.nl"
+    ],
+    "contact_type": "General; cleaning contractor",
+    "source_urls": [
+      "https://aardenglazenwasserij.nl/contact"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0084",
+    "organization_name": "Nijhuis Reiniging",
+    "directory_location": "Almelo",
+    "phones": [],
+    "emails": [
+      "info@nijhuisreiniging.nl"
+    ],
+    "contact_type": "General; retained from 4 October company-post review; phone not retrieved",
+    "source_urls": [
+      "https://nl.linkedin.com/company/nijhuis-reiniging"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0085",
+    "organization_name": "OrangeDrill NV",
+    "directory_location": "Pernis",
+    "phones": [
+      "+31 6 52013931"
+    ],
+    "emails": [],
+    "contact_type": "IRATA public phone; email not retrieved",
+    "source_urls": [
+      "https://irata.org/members/details/orangedrill-nv"
+    ],
+    "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0086",
+    "organization_name": "Hanab Telecom Network Solutions / Connectivity Solutions",
+    "directory_location": "Lieren",
+    "phones": [
+      "+31 88 1860000"
+    ],
+    "emails": [
+      "info-cs@hanab.nl"
+    ],
+    "contact_type": "General connectivity division; local RA crew not established",
+    "source_urls": [
+      "https://www.hanab.nl/connectivity-solutions/nl/wat-wij-doen/advies"
+    ],
+    "checked_date": "2026-10-05"
+  }
+]
