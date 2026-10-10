@@ -1,6 +1,6 @@
 # Detailed Netherlands directory
 
-86 evidence-supported organizational records. Review date: 2026-10-04. IDs retained from the initial register. Publication/crawl dates are not treated as current operating or hiring confirmation.
+99 evidence-supported organizational records. Original records reviewed 2026-10-04; IDs 0087–0099 added/reviewed 2026-10-10. IDs retained from the initial register. Publication/crawl dates are not treated as current operating or hiring confirmation.
 
 ## NL-ORG-0001 — Adrison BV
 
@@ -876,4 +876,161 @@
 - **Primary evidence:** https://www.hanab.nl/en/news/elevated-safety (Primary company page plus authoritative IRATA directory).
 - **Status / limits:** Own team evidenced; current recruitment unverified; probationary status preserved.
 - **Relationships:** Former VolkerWessels Telecom; renamed Hanab divisions from January 2025; not counted separately.
+
+## NL-ORG-0087 — Chinook Schoonmaak
+
+- **Location / connection:** Leiden — Dutch organization / service presence.
+- **Type / activities:** Contractor; Rope access; window and facade cleaning.
+- **Delivery/staffing evidence:** Indexed company service page describes certified specialists; homepage still advertises rope access.
+- **IRATA evidence:** Rope access certification claimed; IRATA not established.
+- **Public route:** [Website / contact](https://chinookschoonmaak.nl/).
+- **Evidence:** [Source](https://chinookschoonmaak.nl/rope-access-schoonmaak/) · [Source](https://chinookschoonmaak.nl/) (Indexed primary page plus current homepage).
+- **Status / limits:** Own-employment model and hiring unverified; old service page fails direct retrieval; newer service page has generic content.
+- **Checked:** 2026-10-10.
+- **Published address:** [Iepenrode 55, 2317 BK Leiden](https://www.google.com/maps/search/?api=1&query=Iepenrode%2055%2C%202317%20BK%20Leiden). [Address source](https://chinookschoonmaak.nl/). Confirm visit arrangements.
+
+## NL-ORG-0088 — Aerial Access
+
+- **Location / connection:** IJmuiden — Dutch organization / service presence.
+- **Type / activities:** Contractor / systems provider; Rope access systems; installation; inspection; green facade maintenance.
+- **Delivery/staffing evidence:** Company project/homepage describes system engineering; installation and ongoing facade maintenance.
+- **IRATA evidence:** Not established in reviewed material.
+- **Public route:** [Website / contact](https://aerial-access.com/contact/).
+- **Evidence:** [Source](https://aerial-access.com/) · [Source](https://aerial-access.com/contact/) (Primary company page).
+- **Status / limits:** Execution evidenced alongside system supply; direct employment and hiring unverified; method page blocked.
+- **Checked:** 2026-10-10.
+- **Published address:** [Trawlerkade 60, 1976 CC IJmuiden](https://www.google.com/maps/search/?api=1&query=Trawlerkade%2060%2C%201976%20CC%20IJmuiden). [Address source](https://aerial-access.com/contact/). Confirm visit arrangements.
+
+## NL-ORG-0089 — Claro Cleaning
+
+- **Location / connection:** Netherlands; base town unverified — Dutch organization / service presence.
+- **Type / activities:** Contractor; Rope access; specialist industrial and facade cleaning.
+- **Delivery/staffing evidence:** Dedicated specialist service page describes own certified team and rope access.
+- **IRATA evidence:** Certification claimed; IRATA standard/membership not established.
+- **Public route:** [Website / contact](https://clarocleaning.nl/contact).
+- **Evidence:** [Source](https://clarocleaning.nl/diensten/specialistische-reiniging) · [Source](https://clarocleaning.nl/contact) (Primary company page).
+- **Status / limits:** Nationwide service area is not an office address; hiring and legal registration details unverified.
+- **Checked:** 2026-10-10.
+
+## NL-ORG-0090 — Deutsche Windtechnik Netherlands
+
+- **Location / connection:** Utrecht; Yerseke and IJmuiden service centres — Dutch operation verified; Dutch rope access crew unverified.
+- **Type / activities:** International provider — local delivery unverified; Wind turbine and rotor blade inspection; repair; rope access.
+- **Delivery/staffing evidence:** Group rotor blade page specifies rope access; Dutch operation separately verified.
+- **IRATA evidence:** Not established in reviewed service page.
+- **Public route:** [Website / contact](https://www.deutsche-windtechnik.com/nl/company/deutsche-windtechnik-netherlands-and-belgium/).
+- **Evidence:** [Source](https://www.deutsche-windtechnik.com/nl/services/onshore-services/maintenance-and-repair/rotor-blades/) · [Source](https://www.deutsche-windtechnik.com/nl/company/deutsche-windtechnik-netherlands-and-belgium/) (Primary company pages).
+- **Status / limits:** Dutch operation confirmed; Dutch rope access team and local RA recruitment unverified.
+- **Checked:** 2026-10-10.
+- **Published address:** [Groenewoudsedijk 40, 3528 BK Utrecht](https://www.google.com/maps/search/?api=1&query=Groenewoudsedijk%2040%2C%203528%20BK%20Utrecht). [Address source](https://www.deutsche-windtechnik.com/nl/company/deutsche-windtechnik-netherlands-and-belgium/). Confirm visit arrangements.
+
+## NL-ORG-0091 — IKM Hendrik Veder
+
+- **Location / connection:** Rotterdam — Dutch organization / service presence.
+- **Type / activities:** Industrial contractor; Lifting; rigging; cable inspection and reeving; rope access.
+- **Delivery/staffing evidence:** Indexed former service page explicitly describes field engineers using rope access; current industry profile lists service.
+- **IRATA evidence:** Not established; rope/cable product certification is not IRATA evidence.
+- **Public route:** [Website / contact](https://www.ikm.com/ikm-hendrik-veder/).
+- **Evidence:** [Source](https://www.hendrikvedergroup.com/home/services/) · [Source](https://www.ikm.com/ikm-hendrik-veder/) · [Source](https://www.pc-nsp.com/nl/leden/ikm-hendrik-veder) (Indexed primary page plus current industry directory).
+- **Status / limits:** Former URL redirects to current IKM site; post-acquisition crew continuity and hiring unverified.
+- **Checked:** 2026-10-10.
+- **Identity:** Former Hendrik Veder Group service evidence retained under IKM successor; current member directory still lists rope access. Post-acquisition capability requires confirmation.
+
+## NL-ORG-0092 — Multimetaal
+
+- **Location / connection:** Den Helder — Dutch organization / service presence.
+- **Type / activities:** Industrial contractor; Offshore inspection; repair; fabrication; installation by rope access.
+- **Delivery/staffing evidence:** Company project describes its team completing work from manbasket or rope access.
+- **IRATA evidence:** Not established in reviewed project.
+- **Public route:** [Website / contact](https://multimetaal.com/portfolio/inspectie-en-reparatie/).
+- **Evidence:** [Source](https://multimetaal.com/portfolio/inspectie-en-reparatie/) (Primary company project).
+- **Status / limits:** Undated project confirms use; own rope technicians versus subcontractors and current recruitment unverified.
+- **Checked:** 2026-10-10.
+- **Published address:** [Scheepmakersweg 23, 1786 PD Den Helder](https://www.google.com/maps/search/?api=1&query=Scheepmakersweg%2023%2C%201786%20PD%20Den%20Helder). [Address source](https://multimetaal.com/portfolio/inspectie-en-reparatie/). Confirm visit arrangements.
+
+## NL-ORG-0093 — Specialistische Glazenwasserij Rinie / SGR
+
+- **Location / connection:** Baarle-Nassau; UK registered HQ also listed — Dutch organization / service presence.
+- **Type / activities:** Contractor; Rope access; abseiling; specialist window cleaning.
+- **Delivery/staffing evidence:** Company lists rope access and abseiling among certified cleaning specialities.
+- **IRATA evidence:** Rope access/RAFER claims; IRATA not established.
+- **Public route:** [Website / contact](https://www.specialistischeglazenwasserijrinie.nl/contact/index.html).
+- **Evidence:** [Source](https://www.specialistischeglazenwasserijrinie.nl/glazenwasserij/index.html) · [Source](https://www.specialistischeglazenwasserijrinie.nl/contact/index.html) (Primary company pages).
+- **Status / limits:** Dutch location evidenced; pages contain older material; current crew and hiring unverified.
+- **Checked:** 2026-10-10.
+- **Published address:** [Hoogbraak 1, 5111 CS Baarle-Nassau](https://www.google.com/maps/search/?api=1&query=Hoogbraak%201%2C%205111%20CS%20Baarle-Nassau). [Address source](https://www.specialistischeglazenwasserijrinie.nl/contact/index.html). Confirm visit arrangements.
+- **Correspondence address:** [Nijhoven 3B, 5111 HE Baarle-Nassau](https://www.google.com/maps/search/?api=1&query=Nijhoven%203B%2C%205111%20HE%20Baarle-Nassau). UK headquarters also listed; Dutch business location retained separately.
+
+## NL-ORG-0094 — Noort Specialistische Reiniging / Edwin Noort
+
+- **Location / connection:** Noordwijk — Dutch organization / service presence.
+- **Type / activities:** Contractor; Rope access; facade maintenance; glass and roof cleaning.
+- **Delivery/staffing evidence:** Company facade page explicitly advertises rope access cleaning since 2019.
+- **IRATA evidence:** Not established in reviewed page.
+- **Public route:** [Website / contact](https://www.edwinnoort.nl/gevelreiniging.html).
+- **Evidence:** [Source](https://www.edwinnoort.nl/gevelreiniging.html) (Primary company page).
+- **Status / limits:** Owner-operated service; page retains April 2025 capacity text; hiring unverified.
+- **Checked:** 2026-10-10.
+- **Published address:** [De Hooge Krocht 133, 2201 TS Noordwijk](https://www.google.com/maps/search/?api=1&query=De%20Hooge%20Krocht%20133%2C%202201%20TS%20Noordwijk). [Address source](https://www.edwinnoort.nl/gevelreiniging.html). Confirm visit arrangements.
+
+## NL-ORG-0095 — Koninklijke Ginkel Groep
+
+- **Location / connection:** Veenendaal — Dutch organization / service presence.
+- **Type / activities:** Contractor; Rope access; green facade and living building maintenance.
+- **Delivery/staffing evidence:** Employer vacancy describes own abseiling gardening team across Netherlands.
+- **IRATA evidence:** IRATA L1 or willingness to train stated; not company membership verification.
+- **Public route:** [Website / contact](https://ginkelgroep.nl/vacature/abseilend-hovenier/).
+- **Evidence:** [Source](https://ginkelgroep.nl/vacature/abseilend-hovenier/) (Primary employer vacancy).
+- **Status / limits:** Application route available on review; undated vacancy; RA typically 6–8 weeks/year with gardening otherwise.
+- **Checked:** 2026-10-10.
+- **Published address:** [Nieuweweg-Noord 255, 3905 LW Veenendaal](https://www.google.com/maps/search/?api=1&query=Nieuweweg-Noord%20255%2C%203905%20LW%20Veenendaal). [Address source](https://ginkelgroep.nl/vacature/abseilend-hovenier/). Confirm visit arrangements.
+
+## NL-ORG-0096 — Geerts Cleaning Service
+
+- **Location / connection:** Etten-Leur — Dutch organization / service presence.
+- **Type / activities:** Contractor; Abseiling; window cleaning; specialist industrial cleaning.
+- **Delivery/staffing evidence:** Company glasbewassing section explicitly states it abseils when telescope cannot reach.
+- **IRATA evidence:** Certified personnel claimed; IRATA not established.
+- **Public route:** [Website / contact](https://www.geerts-cleaning.nl/).
+- **Evidence:** [Source](https://www.geerts-cleaning.nl/) (Primary company page).
+- **Status / limits:** Own abseiling advertised; employment arrangement and RA-specific vacancy unverified.
+- **Checked:** 2026-10-10.
+- **Published address:** [Tussendonk 160, 4878 AM Etten-Leur](https://www.google.com/maps/search/?api=1&query=Tussendonk%20160%2C%204878%20AM%20Etten-Leur). [Address source](https://www.geerts-cleaning.nl/). Confirm visit arrangements.
+
+## NL-ORG-0097 — Glomar Subsea BV / De Onderwaterspecialist
+
+- **Location / connection:** Den Helder — Dutch organization / service presence.
+- **Type / activities:** Industrial contractor; Rope access; maritime topside services; subsea inspection and repairs.
+- **Delivery/staffing evidence:** Current company services list rope access under maritime services.
+- **IRATA evidence:** Not established; old ISO/VCA documents do not verify current IRATA membership.
+- **Public route:** [Website / contact](https://glomar-subsea.com/nl/diensten/).
+- **Evidence:** [Source](https://glomar-subsea.com/nl/diensten/) (Primary company page).
+- **Status / limits:** Own RA crew versus partner execution unverified; page retains dated 2016 certification planning.
+- **Checked:** 2026-10-10.
+- **Published address:** [Het Nieuwe Diep 34a3, 1781 AD Den Helder](https://www.google.com/maps/search/?api=1&query=Het%20Nieuwe%20Diep%2034a3%2C%201781%20AD%20Den%20Helder). [Address source](https://glomar-subsea.com/nl/diensten/). Confirm visit arrangements.
+
+## NL-ORG-0098 — T&R Glas- en Gevelreiniging
+
+- **Location / connection:** Pijnacker — Dutch organization / service presence.
+- **Type / activities:** Contractor; Rope access; glass and facade cleaning; inspection; minor repair and assembly.
+- **Delivery/staffing evidence:** Dedicated service page explicitly describes certified team executing rope access.
+- **IRATA evidence:** Certified rope technicians claimed; IRATA not specified.
+- **Public route:** [Website / contact](https://www.tenrglasengevelreiniging.nl/rope-access/).
+- **Evidence:** [Source](https://www.tenrglasengevelreiniging.nl/rope-access/) (Primary company page).
+- **Status / limits:** Services and Dutch base verified; direct employment and hiring unverified.
+- **Checked:** 2026-10-10.
+- **Published address:** [Wollebrand 3, 2642 JH Pijnacker](https://www.google.com/maps/search/?api=1&query=Wollebrand%203%2C%202642%20JH%20Pijnacker). [Address source](https://www.tenrglasengevelreiniging.nl/rope-access/). Confirm visit arrangements.
+
+## NL-ORG-0099 — Lapwing Partners
+
+- **Location / connection:** Pernis — Dutch organization / service presence.
+- **Type / activities:** Inspection contractor / partner-supported provider; Rope access; NDT; maritime quality inspection and maintenance.
+- **Delivery/staffing evidence:** Dedicated service explicitly delivers together with existing Rope Access Rotterdam.
+- **IRATA evidence:** IRATA standards claimed; membership and personnel certification unverified.
+- **Public route:** [Website / contact](https://www.lapwingpartners.com/services/rope-access/).
+- **Evidence:** [Source](https://www.lapwingpartners.com/services/rope-access/) (Primary company page).
+- **Status / limits:** Partner-supported offering; independent rope crew and employment unverified; partner not counted again.
+- **Checked:** 2026-10-10.
+- **Published address:** [Pastoriestraat 1, 3195 HT Pernis](https://www.google.com/maps/search/?api=1&query=Pastoriestraat%201%2C%203195%20HT%20Pernis). [Address source](https://www.lapwingpartners.com/services/rope-access/). Confirm visit arrangements.
+- **Relationship:** Existing Rope Access Rotterdam is the named delivery partner; this is a distinct advertised provider, not evidence of an additional independent rope crew.
 

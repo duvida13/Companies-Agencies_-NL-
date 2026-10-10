@@ -47,3 +47,53 @@ Lessons: supplier/training labels do not rule out an executing crew (Ropetech, E
 Added 23 records, reaching 86. Explored province/city searches plus telecom, E&I, crane inspection, offshore fire protection, glass roof maintenance, conservation and specialist cleaning. Resolved GAP IPP and Van der Leeuw, and recorded foreign/homonym/partner exclusions in regional evidence. Full Netherlands country-filtered IRATA list inspected in browser across both pages: 27 entries. Member details are selectively inspected; list coverage does not mean every membership category was individually audited.
 
 Representative exact follow-up terms: `Meijerink Technical Services rope access`, `Heights Pure Climbing`, `HPG Projects conservering`, `SCAVES crew rope access`, `Wagenborg Foxdrill rope access`, `Crane Inspection Services rope access`, `SIRON IRATA`, `DutchDetect abseil`, `SSB Bouman rope access`, `Aarden glazenwasserij IRATA`, `Nijhuis Reiniging rope access`. These are representative, not a complete reproducible transcript. Search engine 1 again produced substantial unrelated matches; engine 2 and direct official sources were more productive. Future batches should store exact query strings as they run, rather than reconstructing them afterward.
+
+## 2026-10-10 — eight-method research and register expansion
+
+Reviewed and expanded context/methodology.md into eight explicit reusable methods plus an evidence and output workflow. Ran 39 logged queries and direct primary-page/contact/project follow-ups. Added 13 records (0087–0099), reaching 99: 83 contractors/service providers, 10 agencies/platforms and 6 international providers. Six additions were former uncounted leads. Broad search coverage is not a complete national census.
+
+Route 1 again produced unrelated matches; route 2 and direct primary reading were productive. Failed/blocked retrieval occurred at Chinook's older service URL, Aerial's method/project page and other sites. Indexed evidence, redirects, generic service text and dated content are labelled in records.
+
+Full exact query strings retained for this batch:
+
+- `Nederland "rope access" "diensten" -site:irata.org`
+- `"industrieel klimmen" bedrijf Friesland Groningen Drenthe`
+- `"rope access" Nederland hijsen kraan onderhoud bedrijf`
+- `"abseiltechnieken" bedrijf Limburg Zeeland`
+- `Nederland "rope access" -site:reddit.com -site:abseiltechnieken.nl -site:ropeaccessplus.com schoonmaak`
+- `"rope access" "Nederland" "BV" -site:reddit.com wind services`
+- `"industrieel klimmen" "bedrijf" Utrecht Gelderland Noord-Brabant`
+- `rope access bedrijven Nederland schoonmaak abseilen`
+- `rope access wind Nederland Deutsche Windtechnik Rope Access`
+- `Chinook schoonmaak rope access`
+- `Aerial Access rope access Nederland`
+- `rope access Nederland service contractor blade repair GEV Cormorant Rope Access`
+- `abseilen glasbewassing IRATA Nelis CSU Rinie`
+- `rope access Nederland Multimetaal IKM Hendrik Veder Allrig`
+- `industrieel klimmen specialist bedrijf Overijssel Gelderland`
+- `"rope access" "gevelreiniging" bedrijf`
+- `"abseiltechniek" schoonmaak bedrijf`
+- `"rope access" "Nederland" "inspectie" onderhoud specialist`
+- `"rope access" "Netherlands" blade repair services company`
+- `"rope access" Friesland Groningen bedrijf -site:reddit.com`
+- `"rope access" Zeeland Flevoland bedrijf`
+- `"industrieel klimmen" Limburg Brabant diensten`
+- `"IRATA" monteur vacature bedrijf Nederland`
+- `"rope access" Nederland GEV Cormorant`
+- `site:csu.nl abseilen`
+- `site:neliscompany.nl rope access`
+- `"IRATA" "hovenier" Veenendaal`
+- `site:ikm.com "hendrik" "rope access"`
+- `"abseilen" "glasbewassing" "eigen" bedrijf -site:ropeaccessplus.com`
+- `"rope access" "Nederland" "Allrig"`
+- `"rope access" "Glomar"`
+- `"Hendrik Veder" "rope access"`
+- `"rope access" "Netherlands" site:irata.org/members/details`
+- `"rope access" "Deutsche Windtechnik" "Netherlands" technician`
+- `"abseiltechnieken" bedrijf Flevoland Drenthe`
+- `site:ggcschoonmaak.nl abseil`
+- `site:resqbv.nl rope access`
+- `site:lapwingpartners.com rope access`
+- `site:allriggroup.com rope access Netherlands`
+
+[Batch outcomes and eight-method audit](2026-10-10-research.md).

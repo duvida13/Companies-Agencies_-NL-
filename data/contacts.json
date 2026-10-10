@@ -1404,5 +1404,263 @@
       "https://www.hanab.nl/connectivity-solutions/nl/wat-wij-doen/advies"
     ],
     "checked_date": "2026-10-05"
+  },
+  {
+    "organization_id": "NL-ORG-0087",
+    "organization_name": "Chinook Schoonmaak",
+    "directory_location": "Leiden",
+    "phones": [
+      "+31 85 1304277"
+    ],
+    "emails": [
+      "info@chinookschoonmaak.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://chinookschoonmaak.nl/"
+    ],
+    "checked_date": "2026-10-10",
+    "visit_address": "Iepenrode 55, 2317 BK Leiden",
+    "visit_address_source": "https://chinookschoonmaak.nl/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Iepenrode%2055%2C%202317%20BK%20Leiden",
+    "visit_note": "Company-published address; confirm appropriate team and appointment before visit"
+  },
+  {
+    "organization_id": "NL-ORG-0088",
+    "organization_name": "Aerial Access",
+    "directory_location": "IJmuiden",
+    "phones": [
+      "+31 255 500392"
+    ],
+    "emails": [
+      "info@aerial-access.com"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://aerial-access.com/contact/"
+    ],
+    "checked_date": "2026-10-10",
+    "visit_address": "Trawlerkade 60, 1976 CC IJmuiden",
+    "visit_address_source": "https://aerial-access.com/contact/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Trawlerkade%2060%2C%201976%20CC%20IJmuiden",
+    "visit_note": "Company-published address; confirm appropriate team and appointment before visit"
+  },
+  {
+    "organization_id": "NL-ORG-0089",
+    "organization_name": "Claro Cleaning",
+    "directory_location": "Netherlands; base town unverified",
+    "phones": [
+      "+31 6 31946705"
+    ],
+    "emails": [
+      "joesdekok@gmail.com"
+    ],
+    "contact_type": "Business contact — Joes de Kok; not HR",
+    "source_urls": [
+      "https://clarocleaning.nl/contact"
+    ],
+    "checked_date": "2026-10-10"
+  },
+  {
+    "organization_id": "NL-ORG-0090",
+    "organization_name": "Deutsche Windtechnik Netherlands",
+    "directory_location": "Utrecht; Yerseke and IJmuiden service centres",
+    "phones": [
+      "+31 85 0220076"
+    ],
+    "emails": [
+      "p.collin@deutsche-windtechnik.com"
+    ],
+    "contact_type": "Business development — Pascal Collin; not HR",
+    "source_urls": [
+      "https://www.deutsche-windtechnik.com/nl/company/deutsche-windtechnik-netherlands-and-belgium/"
+    ],
+    "checked_date": "2026-10-10",
+    "visit_address": "Groenewoudsedijk 40, 3528 BK Utrecht",
+    "visit_address_source": "https://www.deutsche-windtechnik.com/nl/company/deutsche-windtechnik-netherlands-and-belgium/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Groenewoudsedijk%2040%2C%203528%20BK%20Utrecht",
+    "visit_note": "Company-published address; confirm appropriate team and appointment before visit"
+  },
+  {
+    "organization_id": "NL-ORG-0091",
+    "organization_name": "IKM Hendrik Veder",
+    "directory_location": "Rotterdam",
+    "phones": [],
+    "emails": [],
+    "contact_type": "Website contact route; recruitment contact unverified",
+    "source_urls": [
+      "https://www.ikm.com/ikm-hendrik-veder/",
+      "https://www.pc-nsp.com/nl/leden/ikm-hendrik-veder"
+    ],
+    "checked_date": "2026-10-10"
+  },
+  {
+    "organization_id": "NL-ORG-0092",
+    "organization_name": "Multimetaal",
+    "directory_location": "Den Helder",
+    "phones": [
+      "+31 223 611120"
+    ],
+    "emails": [
+      "info@multimetaal.com"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://multimetaal.com/portfolio/inspectie-en-reparatie/"
+    ],
+    "checked_date": "2026-10-10",
+    "visit_address": "Scheepmakersweg 23, 1786 PD Den Helder",
+    "visit_address_source": "https://multimetaal.com/portfolio/inspectie-en-reparatie/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Scheepmakersweg%2023%2C%201786%20PD%20Den%20Helder",
+    "visit_note": "Company-published address; confirm appropriate team and appointment before visit"
+  },
+  {
+    "organization_id": "NL-ORG-0093",
+    "organization_name": "Specialistische Glazenwasserij Rinie / SGR",
+    "directory_location": "Baarle-Nassau; UK registered HQ also listed",
+    "phones": [
+      "+31 6 22025944"
+    ],
+    "emails": [
+      "info@sgr.international"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.specialistischeglazenwasserijrinie.nl/contact/index.html"
+    ],
+    "checked_date": "2026-10-10",
+    "visit_address": "Hoogbraak 1, 5111 CS Baarle-Nassau",
+    "visit_address_source": "https://www.specialistischeglazenwasserijrinie.nl/contact/index.html",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Hoogbraak%201%2C%205111%20CS%20Baarle-Nassau",
+    "visit_note": "Company-published address; confirm appropriate team and appointment before visit",
+    "other_addresses": [
+      {
+        "address": "Nijhoven 3B, 5111 HE Baarle-Nassau",
+        "type": "Correspondence",
+        "source_url": "https://www.specialistischeglazenwasserijrinie.nl/contact/index.html",
+        "map_url": "https://www.google.com/maps/search/?api=1&query=Nijhoven%203B%2C%205111%20HE%20Baarle-Nassau"
+      }
+    ]
+  },
+  {
+    "organization_id": "NL-ORG-0094",
+    "organization_name": "Noort Specialistische Reiniging / Edwin Noort",
+    "directory_location": "Noordwijk",
+    "phones": [
+      "+31 71 2021001"
+    ],
+    "emails": [],
+    "contact_type": "Edwin Noort; phone/contact form; email unverified",
+    "source_urls": [
+      "https://www.edwinnoort.nl/gevelreiniging.html"
+    ],
+    "checked_date": "2026-10-10",
+    "visit_address": "De Hooge Krocht 133, 2201 TS Noordwijk",
+    "visit_address_source": "https://www.edwinnoort.nl/gevelreiniging.html",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=De%20Hooge%20Krocht%20133%2C%202201%20TS%20Noordwijk",
+    "visit_note": "Company-published address; confirm appropriate team and appointment before visit"
+  },
+  {
+    "organization_id": "NL-ORG-0095",
+    "organization_name": "Koninklijke Ginkel Groep",
+    "directory_location": "Veenendaal",
+    "phones": [
+      "+31 6 44699018",
+      "+31 318 519039"
+    ],
+    "emails": [
+      "rvandenbrink@ginkelgroep.nl",
+      "info@ginkelgroep.nl"
+    ],
+    "contact_type": "Vacancy contact — Robert van den Brink; general inbox",
+    "source_urls": [
+      "https://ginkelgroep.nl/vacature/abseilend-hovenier/"
+    ],
+    "checked_date": "2026-10-10",
+    "visit_address": "Nieuweweg-Noord 255, 3905 LW Veenendaal",
+    "visit_address_source": "https://ginkelgroep.nl/vacature/abseilend-hovenier/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Nieuweweg-Noord%20255%2C%203905%20LW%20Veenendaal",
+    "visit_note": "Company-published address; confirm appropriate team and appointment before visit"
+  },
+  {
+    "organization_id": "NL-ORG-0096",
+    "organization_name": "Geerts Cleaning Service",
+    "directory_location": "Etten-Leur",
+    "phones": [
+      "+31 76 2043043"
+    ],
+    "emails": [
+      "info@geerts-cleaning.nl"
+    ],
+    "contact_type": "General; site also accepts cleaning applications",
+    "source_urls": [
+      "https://www.geerts-cleaning.nl/"
+    ],
+    "checked_date": "2026-10-10",
+    "visit_address": "Tussendonk 160, 4878 AM Etten-Leur",
+    "visit_address_source": "https://www.geerts-cleaning.nl/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Tussendonk%20160%2C%204878%20AM%20Etten-Leur",
+    "visit_note": "Company-published address; confirm appropriate team and appointment before visit"
+  },
+  {
+    "organization_id": "NL-ORG-0097",
+    "organization_name": "Glomar Subsea BV / De Onderwaterspecialist",
+    "directory_location": "Den Helder",
+    "phones": [
+      "+31 223 525030"
+    ],
+    "emails": [
+      "operations@glomarsubsea.com"
+    ],
+    "contact_type": "Operations; not HR",
+    "source_urls": [
+      "https://glomar-subsea.com/nl/diensten/"
+    ],
+    "checked_date": "2026-10-10",
+    "visit_address": "Het Nieuwe Diep 34a3, 1781 AD Den Helder",
+    "visit_address_source": "https://glomar-subsea.com/nl/diensten/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Het%20Nieuwe%20Diep%2034a3%2C%201781%20AD%20Den%20Helder",
+    "visit_note": "Company-published address; confirm appropriate team and appointment before visit"
+  },
+  {
+    "organization_id": "NL-ORG-0098",
+    "organization_name": "T&R Glas- en Gevelreiniging",
+    "directory_location": "Pijnacker",
+    "phones": [
+      "+31 15 2061140",
+      "+31 6 51696191"
+    ],
+    "emails": [
+      "info@tenrglasengevelreiniging.nl"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.tenrglasengevelreiniging.nl/rope-access/"
+    ],
+    "checked_date": "2026-10-10",
+    "visit_address": "Wollebrand 3, 2642 JH Pijnacker",
+    "visit_address_source": "https://www.tenrglasengevelreiniging.nl/rope-access/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Wollebrand%203%2C%202642%20JH%20Pijnacker",
+    "visit_note": "Company-published address; confirm appropriate team and appointment before visit"
+  },
+  {
+    "organization_id": "NL-ORG-0099",
+    "organization_name": "Lapwing Partners",
+    "directory_location": "Pernis",
+    "phones": [
+      "+31 6 31595857"
+    ],
+    "emails": [
+      "info@lapwingpartners.com"
+    ],
+    "contact_type": "General",
+    "source_urls": [
+      "https://www.lapwingpartners.com/services/rope-access/"
+    ],
+    "checked_date": "2026-10-10",
+    "visit_address": "Pastoriestraat 1, 3195 HT Pernis",
+    "visit_address_source": "https://www.lapwingpartners.com/services/rope-access/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Pastoriestraat%201%2C%203195%20HT%20Pernis",
+    "visit_note": "Company-published address; confirm appropriate team and appointment before visit"
   }
 ]

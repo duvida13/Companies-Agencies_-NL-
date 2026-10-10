@@ -1,6 +1,6 @@
-# Public contacts — all 86 organizations
+# Public contacts — all 99 organizations
 
-Checked 5 October 2026. HR and recruiter contacts are labelled; most other emails are general inboxes. Ask general contacts to forward your CV to the rope access/project recruitment manager. Not every organization has a current vacancy or employs technicians directly. No emails have been guessed. “Not verified” means unavailable in this review, not that none exists. Historic-contact exceptions are explicitly labelled.
+Original contacts checked 5 October 2026; 13 additions checked 10 October 2026. HR and recruiter contacts are labelled; most other emails are general inboxes. Ask general contacts to forward your CV to the rope access/project recruitment manager. Not every organization has a current vacancy or employs technicians directly. No emails have been guessed. “Not verified” means unavailable in this review, not that none exists. Historic-contact exceptions are explicitly labelled.
 
 [Rotterdam visit routes](rotterdam-visits.md) · [Concise company directory](../README.md) · [Machine-readable contacts](../data/contacts.json)
 
@@ -94,3 +94,21 @@ Location below is the original directory location, not proof of a walk-in office
 | Nijhuis Reiniging | Almelo | Not verified | info@nijhuisreiniging.nl | General; retained from 4 October company-post review; phone not retrieved | [Source](https://nl.linkedin.com/company/nijhuis-reiniging) |
 | OrangeDrill NV | Pernis | +31 6 52013931 | Not verified; use linked website/form | IRATA public phone; email not retrieved | [Source](https://irata.org/members/details/orangedrill-nv) |
 | Hanab Telecom Network Solutions / Connectivity Solutions | Lieren | +31 88 1860000 | info-cs@hanab.nl | General connectivity division; local RA crew not established | [Source](https://www.hanab.nl/connectivity-solutions/nl/wat-wij-doen/advies) |
+
+## Added 10 October 2026
+
+| Company | Directory location | Phone | Email | Contact type / limitation | Source | Published address / map |
+|---|---|---|---|---|---|---|
+| Chinook Schoonmaak | Leiden | +31 85 1304277 | info@chinookschoonmaak.nl | General | [Source](https://chinookschoonmaak.nl/) | [Iepenrode 55, 2317 BK Leiden](https://www.google.com/maps/search/?api=1&query=Iepenrode%2055%2C%202317%20BK%20Leiden) |
+| Aerial Access | IJmuiden | +31 255 500392 | info@aerial-access.com | General | [Source](https://aerial-access.com/contact/) | [Trawlerkade 60, 1976 CC IJmuiden](https://www.google.com/maps/search/?api=1&query=Trawlerkade%2060%2C%201976%20CC%20IJmuiden) |
+| Claro Cleaning | Netherlands; base town unverified | +31 6 31946705 | joesdekok@gmail.com | Business contact — Joes de Kok; not HR | [Source](https://clarocleaning.nl/contact) | Not verified |
+| Deutsche Windtechnik Netherlands | Utrecht; Yerseke and IJmuiden service centres | +31 85 0220076 | p.collin@deutsche-windtechnik.com | Business development — Pascal Collin; not HR | [Source](https://www.deutsche-windtechnik.com/nl/company/deutsche-windtechnik-netherlands-and-belgium/) | [Groenewoudsedijk 40, 3528 BK Utrecht](https://www.google.com/maps/search/?api=1&query=Groenewoudsedijk%2040%2C%203528%20BK%20Utrecht) |
+| IKM Hendrik Veder | Rotterdam | Not verified | Not verified | Website contact route; recruitment contact unverified | [Source](https://www.ikm.com/ikm-hendrik-veder/) | Not verified |
+| Multimetaal | Den Helder | +31 223 611120 | info@multimetaal.com | General | [Source](https://multimetaal.com/portfolio/inspectie-en-reparatie/) | [Scheepmakersweg 23, 1786 PD Den Helder](https://www.google.com/maps/search/?api=1&query=Scheepmakersweg%2023%2C%201786%20PD%20Den%20Helder) |
+| Specialistische Glazenwasserij Rinie / SGR | Baarle-Nassau; UK registered HQ also listed | +31 6 22025944 | info@sgr.international | General | [Source](https://www.specialistischeglazenwasserijrinie.nl/contact/index.html) | [Hoogbraak 1, 5111 CS Baarle-Nassau](https://www.google.com/maps/search/?api=1&query=Hoogbraak%201%2C%205111%20CS%20Baarle-Nassau) |
+| Noort Specialistische Reiniging / Edwin Noort | Noordwijk | +31 71 2021001 | Not verified | Edwin Noort; phone/contact form; email unverified | [Source](https://www.edwinnoort.nl/gevelreiniging.html) | [De Hooge Krocht 133, 2201 TS Noordwijk](https://www.google.com/maps/search/?api=1&query=De%20Hooge%20Krocht%20133%2C%202201%20TS%20Noordwijk) |
+| Koninklijke Ginkel Groep | Veenendaal | +31 6 44699018 / +31 318 519039 | rvandenbrink@ginkelgroep.nl / info@ginkelgroep.nl | Vacancy contact — Robert van den Brink; general inbox | [Source](https://ginkelgroep.nl/vacature/abseilend-hovenier/) | [Nieuweweg-Noord 255, 3905 LW Veenendaal](https://www.google.com/maps/search/?api=1&query=Nieuweweg-Noord%20255%2C%203905%20LW%20Veenendaal) |
+| Geerts Cleaning Service | Etten-Leur | +31 76 2043043 | info@geerts-cleaning.nl | General; site also accepts cleaning applications | [Source](https://www.geerts-cleaning.nl/) | [Tussendonk 160, 4878 AM Etten-Leur](https://www.google.com/maps/search/?api=1&query=Tussendonk%20160%2C%204878%20AM%20Etten-Leur) |
+| Glomar Subsea BV / De Onderwaterspecialist | Den Helder | +31 223 525030 | operations@glomarsubsea.com | Operations; not HR | [Source](https://glomar-subsea.com/nl/diensten/) | [Het Nieuwe Diep 34a3, 1781 AD Den Helder](https://www.google.com/maps/search/?api=1&query=Het%20Nieuwe%20Diep%2034a3%2C%201781%20AD%20Den%20Helder) |
+| T&R Glas- en Gevelreiniging | Pijnacker | +31 15 2061140 / +31 6 51696191 | info@tenrglasengevelreiniging.nl | General | [Source](https://www.tenrglasengevelreiniging.nl/rope-access/) | [Wollebrand 3, 2642 JH Pijnacker](https://www.google.com/maps/search/?api=1&query=Wollebrand%203%2C%202642%20JH%20Pijnacker) |
+| Lapwing Partners | Pernis | +31 6 31595857 | info@lapwingpartners.com | General | [Source](https://www.lapwingpartners.com/services/rope-access/) | [Pastoriestraat 1, 3195 HT Pernis](https://www.google.com/maps/search/?api=1&query=Pastoriestraat%201%2C%203195%20HT%20Pernis) |
