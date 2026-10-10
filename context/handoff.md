@@ -1,8 +1,8 @@
 # Current status and next actions
 
-GitHub is the sole store. Do not reintroduce Obsidian, user downloads or local sync requirements. Sources reviewed 4 October 2026.
+GitHub is the sole store. Do not reintroduce Obsidian, user downloads or local sync requirements. Original sources reviewed 4–5 October 2026; additions reviewed 10 October 2026.
 
-86 organizational records: 71 contractors/service providers, 10 agencies/platforms, 5 international providers. Stable IDs NL-ORG-0001–0086; next ID NL-ORG-0087. Read latest GitHub before allocating IDs. Directory counts are organizational records, not independent crews, legal entities, live vacancies or a market census.
+99 evidence-supported organizational records: 83 contractors/service providers, 10 agencies/platforms, 6 international providers. Stable IDs NL-ORG-0001–0099; next ID NL-ORG-0100. Read latest GitHub before allocating IDs. Directory counts are organizational records, not independent crews, legal entities, live vacancies or a market census.
 
 Regional/niche research added 23 records. Complete Netherlands country-filtered IRATA register inspected: 27 entries; three training-only entities retained in ecosystem audit, Brand's two entities grouped, and remaining entries represented in directory after OrangeDrill, CIS, Foxdrill and Hanab additions.
 
@@ -16,3 +16,9 @@ Regional/niche research added 23 records. Complete Netherlands country-filtered 
 6. Benchmark any model classifier on retained/ambiguous/rejected cases before automating filtering. Keep unclear cases for review. No Jev or paid crawler/API configured; manual discovery remains productive.
 
 Read README for concise list; directory/netherlands.md for evidence and limitations; research/ for coverage, member audit, rejected matches and unresolved queue. Publish CSV, both directory views, evidence and context together.
+
+## Full inventory and user retention preference — 10 October 2026
+
+`directory/all-companies.md` contains 137 named entries: all 99 registered organizations and 38 additional leads/ecosystem/related/other researched names. This is the single full alphabetical view, including MISTRAS and Deutsche Windtechnik. Keep the categorized README and review queue as additional views. Add every newly found named company/candidate to the master list, regardless of unresolved evidence or apparent relevance. Luis decides what should be removed. Preserve aliases visibly; do not silently discard candidates. Review/status labels are factual, not subjective job-fit rankings.
+
+Reusable eight-method research instructions are in `context/methodology.md`; linked prominently from README. The latest research batch is `research/2026-10-10-research.md`, with 13 register additions and 39 logged queries.

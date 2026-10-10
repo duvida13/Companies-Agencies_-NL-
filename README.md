@@ -1,5 +1,9 @@
 # Netherlands Rope Access Companies & Agencies
 
+**[All companies found — full master list](directory/all-companies.md)** — every registered company, international provider, agency, unresolved lead and other named research candidate in one alphabetical table.
+
+[Revised research instructions — all eight methods](context/methodology.md#reusable-research-instructions--all-eight-methods)
+
 **99 organizations: 83 contractors/service providers, 10 agencies/platforms and 6 international providers.** Original records reviewed 4–5 October 2026; 13 additions reviewed 10 October 2026. Expanded from 16; not an exhaustive market census.
 
 [Rotterdam bicycle visits](outreach/rotterdam-visits.md) · [Phones & emails — all 99](outreach/contacts.md)

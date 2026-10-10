@@ -7,7 +7,7 @@ Find Dutch rope access contractors, industrial contractors with rope access capa
 ## Phases
 
 1. Establish public register and evidence notes.
-2. Discover approximately 100 candidate organizations through varied sources.
+2. Discover additional candidate organizations through varied sources without an arbitrary target count.
 3. Combine pages per organization and manually verify classifications.
 4. Benchmark optional Jev classification; measure wrongly rejected relevant companies before automatic exclusion.
 5. Scale useful search and extraction sources.
@@ -57,6 +57,8 @@ Group all relevant pages before deciding. Separately establish identity, Netherl
 
 ## Research workflow and deliverables
 
+**Master-list retention rule:** Add every newly identified named company/candidate to `directory/all-companies.md`, including unresolved, international, training-only, related and apparently irrelevant matches. Update evidence/status without silently removing the name. Luis decides exclusions and removals. Preserve confirmed aliases visibly within the related entry. The evidence-supported CSV/directory may retain a narrower scope, but it must never be mistaken for the full inventory.
+
 1. Read existing records and unresolved leads; retain stable IDs and resolve aliases.
 2. Build a search matrix across methods 1–7. Log exact query strings while running them. Note which routes produced discoveries and which returned only duplicates or irrelevant results.
 3. Apply method 8 to every candidate. Prefer primary service/project/employer evidence and authoritative member directories. Corroborate directory clues; label indexed-only or historical evidence.
@@ -85,6 +87,6 @@ New verified organizations per batch; duplicate rate; unresolved cases; relevant
 
 ## Repository organization
 
-Concise company list: README.md. Authoritative records: data/companies.csv. Detailed records: directory/netherlands.md. Methodology/schema/handoff: context/. Logs, evidence and unresolved queue: research/.
+Full cumulative inventory: directory/all-companies.md. Concise categorized company list: README.md. Evidence-supported records: data/companies.csv. Detailed records: directory/netherlands.md. Methodology/schema/handoff: context/. Logs, evidence and unresolved queue: research/.
 
 Public research notes include methodology, source evidence and lessons only. Credentials, CVs, private applications, local filesystem paths and private conversations are excluded.

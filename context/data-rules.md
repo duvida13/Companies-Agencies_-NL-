@@ -1,6 +1,8 @@
 # Data rules
 
-`data/companies.csv` is the authoritative register. `README.md` provides a concise company list; `directory/netherlands.md` preserves detailed record-level evidence and limitations. Update all three in the same commit when records change.
+`directory/all-companies.md` is the full cumulative inventory of every named company/candidate found, including unresolved leads, international providers, ecosystem organizations and other researched matches. Retain names until Luis requests removal; evidence or relevance uncertainty changes status, not master-list inclusion. Keep aliases visible. Every research batch must update this master list.
+
+`data/companies.csv` is the authoritative evidence-supported register; its narrower inclusion criteria do not define the full inventory. `README.md` provides a concise company list; `directory/netherlands.md` preserves detailed record-level evidence and limitations. Update all three in the same commit when records change.
 
 ## Schema
 
