@@ -1,4 +1,6 @@
-# Detailed Netherlands directory
+# Historical detailed directory
+
+**Superseded:** company evidence and contacts have been consolidated into the [master table](all-companies.md). Use that table for current information. This older supporting page remains pending cleanup.
 
 100 evidence-supported organizational records. Original records reviewed 2026-10-04; IDs 0087–0099 added/reviewed 2026-10-10; ID 0100 added/reviewed 2026-10-11. IDs retained from the initial register. Publication/crawl dates are not treated as current operating or hiring confirmation.
 

@@ -1,23 +1,8 @@
-# Methodology
+# Company discovery instructions
 
-## Goal and scope
+Find companies that perform, organize or supply personnel for rope access activities in the Netherlands. Include companies without current vacancies, international providers, trainers, partners and unresolved leads in the master table; label what is known and unknown. Luis decides which companies should be removed.
 
-Find Dutch rope access contractors, industrial contractors with rope access capability, and agencies supplying technicians. Track training, equipment and client organizations as ecosystem leads without assuming they hire technicians. Include companies without current vacancies and overseas firms with a documented Netherlands operation.
-
-## Phases
-
-1. Establish public register and evidence notes.
-2. Discover additional candidate organizations through varied sources without an arbitrary target count.
-3. Combine pages per organization and manually verify classifications.
-4. Benchmark optional Jev classification; measure wrongly rejected relevant companies before automatic exclusion.
-5. Scale useful search and extraction sources.
-6. Incrementally add discoveries and refresh stale evidence.
-
-## Tools
-
-Pilot: existing web search, primary-page reading, structured evidence notes.
-Potential later setup: Serper search results; selective Firecrawl extraction; Jev classification if it passes an accuracy test; code for normalization and organization matching; stronger model for ambiguity.
-Do not assume paid tools are necessary or available. Record total search/extraction/model costs, not only classifier token charges. Keep credentials out of notes and public repositories.
+The [master table](../directory/all-companies.md) is the sole company/contact record. Read it before research. The eight methods below can be reused in another chat or AI model.
 
 ## Reusable research instructions — all eight methods
 
@@ -55,38 +40,21 @@ Search employer careers pages, current and historical job advertisements, open a
 
 Group all relevant pages before deciding. Separately establish identity, Netherlands connection, rope capability, own crew versus partner execution, staffing, direct employment, training, certification and hiring. Use more than one activity label where appropriate. Record unknowns, conflicting information, inaccessible pages and indexed-only evidence. Never treat failed extraction or absence on one page as proof of no capability. Keep weak leads in a follow-up queue. Confirm names/aliases against the register before adding a stable ID.
 
-## Research workflow and deliverables
+## Updating the master table
 
-**Master-list retention rule:** Add every newly identified named company/candidate to `directory/all-companies.md`, including unresolved, international, training-only, related and apparently irrelevant matches. Update evidence/status without silently removing the name. Luis decides exclusions and removals. Preserve confirmed aliases visibly within the related entry. The evidence-supported CSV/directory may retain a narrower scope, but it must never be mistaken for the full inventory.
+1. Add every newly identified named company/candidate. Do not silently discard it because its relevance, identity, Dutch presence or capability is uncertain. Luis decides removals. Preserve confirmed aliases visibly with the related company; retain unresolved relationships as notes.
+2. Keep the table alphabetical. Company name is followed by website, then LinkedIn. Include status/type, Netherlands connection, recruiter/HR/application routes, general/business contacts, address maps, activities, execution/staffing evidence, certification facts, sources and review dates.
+3. Use published company/business contacts. Name recruiters when confirmed; label owners, sales, operations and general inboxes accurately. Place a switchboard in the general column rather than claiming it is a recruiter's number. Do not guess email addresses, LinkedIn URLs, street addresses or phone numbers.
+4. Use multiple activity labels and distinguish own crew, staffing, partner execution, training and current hiring. Preserve historical evidence, conflicting contacts and extraction failures as concise notes. IRATA technician certification differs from company membership; current membership cannot be inferred from an expired document or old audit.
+5. Link directly to relevant primary service/project/employer pages or authoritative directories in the company row. Record review dates and stable IDs for existing records. Keep concise useful evidence in the row; do not create separate company, contact, audit, benchmark or batch-report pages.
+6. Update totals in the master table, README and handoff when needed. Read the published files back and check all company names, contacts, addresses and links. Known companies remain visible when new evidence is inconclusive.
+7. Search paid services only when relevant and available; they are not required. Never put credentials, CVs, private applications/correspondence or local paths in this public repository.
 
-1. Read existing records and unresolved leads; retain stable IDs and resolve aliases.
-2. Build a search matrix across methods 1–7. Log exact query strings while running them. Note which routes produced discoveries and which returned only duplicates or irrelevant results.
-3. Apply method 8 to every candidate. Prefer primary service/project/employer evidence and authoritative member directories. Corroborate directory clues; label indexed-only or historical evidence.
-4. For each admitted organization record name, website, Dutch location/connection, activities, delivery/staffing evidence, IRATA evidence, contact/application route, status/limits, source URLs, checked date, source quality and related organizations.
-5. Record only company-published business contacts; label HR/recruitment separately from operations, owners, sales and general inboxes. Never guess email addresses. Confirm street addresses from an appropriate source; add a clickable map for each known address and preserve office/correspondence distinctions.
-6. Keep confirmed capability separate from current hiring, and Dutch presence separate from Dutch rope crew evidence. Preserve uncertainty within supported records; candidates lacking sufficient identity or capability evidence remain uncounted.
-7. Update the concise directory, CSV, contact records, detailed evidence and unresolved queue consistently. Report actual additions and duplicates, rather than working toward an arbitrary target count.
-8. Describe scope and remaining gaps. Repeated duplicates or few discoveries do not demonstrate an exhaustive market census.
+## Active pages
 
-## Verification rules
+- `README.md`: short navigation.
+- `directory/all-companies.md`: all companies, contacts, addresses and evidence in one table.
+- `context/methodology.md`: these reusable research instructions.
+- `context/handoff.md`: brief continuation notes for another chat.
 
-- Deduplicate URLs early, then group evidence by organization.
-- Missing evidence on one page is not evidence of no capability.
-- Keep extraction failures and ambiguous results in the queue.
-- Use multiple activity labels; a training provider may also undertake projects.
-- Distinguish advertised capability, staffing, direct employment and subcontracting.
-- Distinguish IRATA technicians from IRATA company membership.
-- Historical vacancies reveal leads, not current capability.
-- Customer logos do not prove direct hiring; unnamed agency clients stay unnamed.
-- Record source URLs, concise supporting excerpts, review date and source date when available.
-- Stable IDs survive name changes. Shared domain/address alone does not justify merging.
-
-## Metrics
-
-New verified organizations per batch; duplicate rate; unresolved cases; relevant organizations wrongly rejected; source-specific discoveries; cost per newly verified organization. Few new discoveries do not prove completeness.
-
-## Repository organization
-
-Full cumulative inventory: directory/all-companies.md. Concise categorized company list: README.md. Evidence-supported records: data/companies.csv. Detailed records: directory/netherlands.md. Methodology/schema/handoff: context/. Logs, evidence and unresolved queue: research/.
-
-Public research notes include methodology, source evidence and lessons only. Credentials, CVs, private applications, local filesystem paths and private conversations are excluded.
+The master table is authoritative. Older supporting files currently remain in the repository pending cleanup; do not use them as additional maintained company/contact lists. Do not create duplicate datasets or pages that require the same company information to be maintained again.

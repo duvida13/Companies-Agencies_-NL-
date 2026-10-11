@@ -96,7 +96,7 @@ Full exact query strings retained for this batch:
 - `site:lapwingpartners.com rope access`
 - `site:allriggroup.com rope access Netherlands`
 
-[Batch outcomes and eight-method audit](2026-10-10-research.md).
+[Batch outcomes and eight-method audit](https://github.com/duvida13/Companies-Agencies_-NL-/blob/a6f9ce6bcc4ea5afca89a9fad2509a5557531839/research/2026-10-10-research.md).
 
 ## 2026-10-11 — user-supplied company
 
