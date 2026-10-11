@@ -6,7 +6,7 @@ The [master table](../directory/all-companies.md) is the sole company/contact re
 
 ## Reusable research instructions — all eight methods
 
-Use this section as instructions in another chat or AI model. Research organizations that perform, organize or supply personnel for rope access work in the Netherlands. Read the existing register first, then search for new organizations and strengthen uncertain records. Search for capability even when no vacancy is advertised. Report facts and limitations without assigning subjective job-fit scores.
+Use this section as instructions in another chat or AI model. Research organizations that perform, organize or supply personnel for rope access work in the Netherlands. Read the master table first, then search for new organizations and strengthen uncertain records. Search for capability even when no vacancy is advertised. Report facts and limitations without assigning subjective job-fit scores.
 
 ### 1. Dutch and English keywords, synonyms and spelling variants
 
@@ -38,7 +38,7 @@ Search employer careers pages, current and historical job advertisements, open a
 
 ### 8. Combine evidence per organization and preserve uncertainty
 
-Group all relevant pages before deciding. Separately establish identity, Netherlands connection, rope capability, own crew versus partner execution, staffing, direct employment, training, certification and hiring. Use more than one activity label where appropriate. Record unknowns, conflicting information, inaccessible pages and indexed-only evidence. Never treat failed extraction or absence on one page as proof of no capability. Keep weak leads in a follow-up queue. Confirm names/aliases against the register before adding a stable ID.
+Group all relevant pages before deciding. Separately establish identity, Netherlands connection, rope capability, own crew versus partner execution, staffing, direct employment, training, certification and hiring. Use more than one activity label where appropriate. Record unknowns, conflicting information, inaccessible pages and indexed-only evidence. Never treat failed extraction or absence on one page as proof of no capability. Keep weak leads as unresolved entries in the master table. Confirm names/aliases against the master table before adding a stable ID.
 
 ## Updating the master table
 
@@ -50,11 +50,15 @@ Group all relevant pages before deciding. Separately establish identity, Netherl
 6. Update totals in the master table, README and handoff when needed. Read the published files back and check all company names, contacts, addresses and links. Known companies remain visible when new evidence is inconclusive.
 7. Search paid services only when relevant and available; they are not required. Never put credentials, CVs, private applications/correspondence or local paths in this public repository.
 
-## Active pages
+## Repository structure
 
 - `README.md`: short navigation.
 - `directory/all-companies.md`: all companies, contacts, addresses and evidence in one table.
 - `context/methodology.md`: these reusable research instructions.
-- `context/handoff.md`: brief continuation notes for another chat.
+- `context/handoff.md`: working context, accumulated lessons and remaining research gaps.
 
-The master table is authoritative. Older supporting files currently remain in the repository pending cleanup; do not use them as additional maintained company/contact lists. Do not create duplicate datasets or pages that require the same company information to be maintained again.
+The master table is authoritative. Do not create duplicate datasets or pages that require the same company information to be maintained again.
+
+## Improve these instructions as we learn
+
+After each research pass, update the company rows and add any reusable finding to the [working context](handoff.md). If it changes how searches or verification should be done, update the relevant numbered method here as well. Explain what worked or failed and the practical adjustment; distinguish an observed result from an untested idea. Keep examples or query patterns that help the next search. Do not create a separate batch report, audit, query log or benchmark page. Remove repeated wording as guidance develops, while preserving useful lessons.
