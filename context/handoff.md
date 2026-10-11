@@ -32,6 +32,12 @@ Retain international providers, trainers, partners, small businesses and uncerta
 - Keep ambiguous contacts and locations explicit. RanaWorks has conflicting email text/links; some sites have postcode/address inconsistencies; some business locations are postal or appointment-only.
 - Setup and repeated file organization previously displaced discovery. Spend research effort on finding and checking companies. Keep one company/contact table so updates do not require synchronizing multiple views.
 
+## Lessons from comparing merged job findings — 11 October 2026
+
+- Read cumulative country findings and review links alongside all saved merge runs. The latest run alone misses earlier company discoveries. Original daily digests recovered advertiser names hidden behind shortened Indeed links.
+- A country heading and a job title are discovery clues, not operational proof. The RTS Wind source described Europe-wide platform work despite placement under Netherlands; Climbing Network's site described recreational climbing centres despite an agent's rope-access label. Separate advertiser, unnamed client, work method and actual location. Match group aliases before counting additions; iPS Baltics is part of the already listed iPS Powerful People.
+- Luis reviewed the comparison and chose to keep those names in [other job findings](../directory/other-job-findings.md), outside the main rope-access list. This is his organizational decision, not an assistant suitability score. Preserve that decision in future passes; do not automatically promote those names. The page records 26 additional employer/advertiser leads plus the Climbing Network classification issue; RTS Wind already had a Notion record.
+
 ## Useful query patterns
 
 Vary one sector or region at a time, then follow up on the named company:
@@ -57,6 +63,6 @@ Previously useful niche: `"IRATA" "hovenier" Veenendaal`. Do not treat a query t
 
 ## Keep the repository compact
 
-Four files are maintained: homepage, master company table, methodology and this working context. Company-specific contacts, sources and uncertainties belong in the table. Reusable search lessons belong here; operational instructions belong in the methodology. Update these existing pages instead of creating separate reports or datasets. Older versions remain in Git history.
+Five files are maintained: homepage, main company/contact table, the separate job-derived reference page requested by Luis, methodology and this working context. Company-specific contacts, sources and uncertainties belong in the table. Reusable search lessons belong here; operational instructions belong in the methodology. Update these existing pages instead of creating separate reports or datasets. Older versions remain in Git history.
 
 Keep every company until Luis requests removal. Keep private applications, correspondence, CVs and credentials out of this public repository.

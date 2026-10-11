@@ -2,7 +2,7 @@
 
 Find companies that perform, organize or supply personnel for rope access activities in the Netherlands. Include companies without current vacancies, international providers, trainers, partners and unresolved leads in the master table; label what is known and unknown. Luis decides which companies should be removed.
 
-The [master table](../directory/all-companies.md) is the sole company/contact record. Read it before research. The eight methods below can be reused in another chat or AI model.
+The [master table](../directory/all-companies.md) is the sole rope-access company/contact record. [Other job-derived employers and advertisers](../directory/other-job-findings.md) are retained separately following Luis's review; they are not main-list additions. Read it before research. The eight methods below can be reused in another chat or AI model.
 
 ## Reusable research instructions — all eight methods
 
@@ -36,13 +36,15 @@ Check the Netherlands IRATA member list and relevant operator details, plus mari
 
 Search employer careers pages, current and historical job advertisements, open applications, freelance routes, and company-authored LinkedIn or other public project posts. Rope access may appear inside an NDT, maintenance, gardening, welding or wind role. Trace third-party adverts back to the named employer when possible. Keep an agency client unnamed when the advert does not identify it. Historical vacancies reveal leads; they do not prove a current vacancy. Company posts can support execution even when website extraction fails. Personal profiles alone are weak leads. Record L1/L2/L3, trade qualifications and other certificates only when stated; do not infer L1 eligibility from any mention of IRATA.
 
+When using merged job-search results, compare the cumulative country list and review links as well as every available saved merge run; the latest run alone omits historical discoveries. Trace shortened links to their destination or the original dated agent digest to recover the named employer/advertiser. Record the advertiser separately from an unnamed client. Match aliases, subsidiaries and rebrands against existing records before counting a new company. A source-report date, publication date, contract start and current application status are different facts; record only those established by evidence. Check the original location wording: a posting filed under Netherlands may actually describe Europe-wide work.
+
 ### 8. Combine evidence per organization and preserve uncertainty
 
-Group all relevant pages before deciding. Separately establish identity, Netherlands connection, rope capability, own crew versus partner execution, staffing, direct employment, training, certification and hiring. Use more than one activity label where appropriate. Record unknowns, conflicting information, inaccessible pages and indexed-only evidence. Never treat failed extraction or absence on one page as proof of no capability. Keep weak leads as unresolved entries in the master table. Confirm names/aliases against the master table before adding a stable ID.
+Group all relevant pages before deciding. Separately establish identity, Netherlands connection, rope capability, own crew versus partner execution, staffing, direct employment, training, certification and hiring. Use more than one activity label where appropriate. Record unknowns, conflicting information, inaccessible pages and indexed-only evidence. Never treat failed extraction or absence on one page as proof of no capability. Keep weak rope-access leads as unresolved entries in the master table. A climbing-sport employer, wire-rope role, scaffolding vacancy or rigger title alone does not establish industrial rope-access capability. Preserve other job-derived names on the separate reference page when Luis directs this, with the reported work and limitations; do not silently discard them or promote them automatically. Confirm names/aliases against the master table before adding a stable ID.
 
 ## Updating the master table
 
-1. Add every newly identified named company/candidate. Do not silently discard it because its relevance, identity, Dutch presence or capability is uncertain. Luis decides removals. Preserve confirmed aliases visibly with the related company; retain unresolved relationships as notes.
+1. Add every newly identified named rope-access company/candidate unless Luis has directed that it be retained separately. The job-derived findings Luis reviewed on 11 October 2026 belong in `directory/other-job-findings.md`, not the master table. Do not silently discard it because its relevance, identity, Dutch presence or capability is uncertain. Luis decides removals. Preserve confirmed aliases visibly with the related company; retain unresolved relationships as notes.
 2. Keep the table alphabetical. Company name is followed by website, then LinkedIn. Include status/type, Netherlands connection, recruiter/HR/application routes, general/business contacts, address maps, activities, execution/staffing evidence, certification facts, sources and review dates.
 3. Use published company/business contacts. Name recruiters when confirmed; label owners, sales, operations and general inboxes accurately. Place a switchboard in the general column rather than claiming it is a recruiter's number. Do not guess email addresses, LinkedIn URLs, street addresses or phone numbers.
 4. Use multiple activity labels and distinguish own crew, staffing, partner execution, training and current hiring. Preserve historical evidence, conflicting contacts and extraction failures as concise notes. IRATA technician certification differs from company membership; current membership cannot be inferred from an expired document or old audit.
@@ -53,7 +55,8 @@ Group all relevant pages before deciding. Separately establish identity, Netherl
 ## Repository structure
 
 - `README.md`: short navigation.
-- `directory/all-companies.md`: all companies, contacts, addresses and evidence in one table.
+- `directory/all-companies.md`: the main rope-access company list, contacts, addresses and evidence in one table.
+- `directory/other-job-findings.md`: job-derived employers/advertisers Luis chose to retain separately; concise discovery references and limitations, without duplicating the main contact table.
 - `context/methodology.md`: these reusable research instructions.
 - `context/handoff.md`: working context, accumulated lessons and remaining research gaps.
 
