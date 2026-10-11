@@ -1,6 +1,6 @@
 # All companies found — master list
 
-**137 named entries: all 99 registered organizations plus 38 leads, ecosystem organizations, related names and other researched companies.** Updated 10 October 2026.
+**138 named entries: all 100 registered organizations plus 38 leads, ecosystem organizations, related names and other researched companies.** Updated 11 October 2026.
 
 This is the full cumulative inventory of named companies/candidates recorded in the repository research. MISTRAS, Deutsche Windtechnik, international providers, agencies, unresolved leads and training providers appear together in this single alphabetical table. An entry remains visible even when its relevance, Dutch connection, identity or current activity is uncertain.
 
@@ -80,6 +80,7 @@ The website column uses the known company/service or discovery URL. Generic KvK/
 | Jenz Offshore | [Website / source](https://jenz.nl/over-jenz/jenz-offshore) | Registered; see limitations | Agency | Susteren | Staffing confirmed; current RA openings unverified | [NL-ORG-0018](netherlands.md) |
 | Koninklijke Ginkel Groep | [Website / source](https://ginkelgroep.nl/vacature/abseilend-hovenier/) | Registered; see limitations | Contractor | Veenendaal | Application route available on review; undated vacancy; RA typically 6–8 weeks/year with gardening otherwise | [NL-ORG-0095](netherlands.md) |
 | Lapwing Partners | [Website / source](https://www.lapwingpartners.com/services/rope-access/) | Registered; see limitations | Inspection contractor / partner-supported provider | Pernis | Partner-supported offering; independent rope crew and employment unverified; partner not counted again | [NL-ORG-0099](netherlands.md) |
+| Lars Domenie Hoogtewerken / Strong in Heights | [Website / source](https://www.stronginheights.com/) | Registered; reviewed 11 October 2026 | Contractor / service provider | Etten-Leur | Service execution evidenced; IRATA status and current hiring unverified. Phone: +31 6 52619004. Email: [info@stronginheights.com](mailto:info@stronginheights.com). Address: [Vosdonk 37 A58, 4879 NC Etten-Leur](https://www.google.com/maps/search/?api=1&query=Vosdonk%2037%20A58%2C%204879%20NC%20Etten-Leur). | [Company evidence](https://www.stronginheights.com/over-ons) · NL-ORG-0100 |
 | Life Line Solutions | [Website / source](https://lifelinesolutions.nl/service/rope-acces/) | Registered; see limitations | Contractor / service provider | Netherlands; town needs verification | Services confirmed; hiring unverified | [NL-ORG-0011](netherlands.md) |
 | LSB Groep | [Website / source](https://lsb-groep.com/rope-acces/) | Registered; see limitations | Industrial contractor | Geleen | Distinct named business; shared operation/address with Sky-Access | [NL-ORG-0025](netherlands.md) |
 | Meijerink Technical Services | [Website / source](https://meijerinkts.nl/) | Registered; see limitations | Industrial contractor | Bolsward | Services advertised; current vacancies unverified | [NL-ORG-0065](netherlands.md) |

@@ -1,6 +1,6 @@
-# Public contacts — all 99 organizations
+# Public contacts — all 100 organizations
 
-Original contacts checked 5 October 2026; 13 additions checked 10 October 2026. HR and recruiter contacts are labelled; most other emails are general inboxes. Ask general contacts to forward your CV to the rope access/project recruitment manager. Not every organization has a current vacancy or employs technicians directly. No emails have been guessed. “Not verified” means unavailable in this review, not that none exists. Historic-contact exceptions are explicitly labelled.
+Original contacts checked 5 October 2026; 13 additions checked 10 October 2026; Domenie Hoogtewerken checked 11 October 2026. HR and recruiter contacts are labelled; most other emails are general inboxes. Ask general contacts to forward your CV to the rope access/project recruitment manager. Not every organization has a current vacancy or employs technicians directly. No emails have been guessed. “Not verified” means unavailable in this review, not that none exists. Historic-contact exceptions are explicitly labelled.
 
 [Rotterdam visit routes](rotterdam-visits.md) · [Concise company directory](../README.md) · [Machine-readable contacts](../data/contacts.json)
 
@@ -112,3 +112,9 @@ Location below is the original directory location, not proof of a walk-in office
 | Glomar Subsea BV / De Onderwaterspecialist | Den Helder | +31 223 525030 | operations@glomarsubsea.com | Operations; not HR | [Source](https://glomar-subsea.com/nl/diensten/) | [Het Nieuwe Diep 34a3, 1781 AD Den Helder](https://www.google.com/maps/search/?api=1&query=Het%20Nieuwe%20Diep%2034a3%2C%201781%20AD%20Den%20Helder) |
 | T&R Glas- en Gevelreiniging | Pijnacker | +31 15 2061140 / +31 6 51696191 | info@tenrglasengevelreiniging.nl | General | [Source](https://www.tenrglasengevelreiniging.nl/rope-access/) | [Wollebrand 3, 2642 JH Pijnacker](https://www.google.com/maps/search/?api=1&query=Wollebrand%203%2C%202642%20JH%20Pijnacker) |
 | Lapwing Partners | Pernis | +31 6 31595857 | info@lapwingpartners.com | General | [Source](https://www.lapwingpartners.com/services/rope-access/) | [Pastoriestraat 1, 3195 HT Pernis](https://www.google.com/maps/search/?api=1&query=Pastoriestraat%201%2C%203195%20HT%20Pernis) |
+
+## Added 11 October 2026
+
+| Company | Phone | Email | Contact type | Published address / map | Source |
+|---|---|---|---|---|---|
+| Lars Domenie Hoogtewerken / Strong in Heights | +31 6 52619004 | [info@stronginheights.com](mailto:info@stronginheights.com) | General / business; HR unverified | [Vosdonk 37 A58, 4879 NC Etten-Leur](https://www.google.com/maps/search/?api=1&query=Vosdonk%2037%20A58%2C%204879%20NC%20Etten-Leur) | [Company site](https://www.stronginheights.com/) |

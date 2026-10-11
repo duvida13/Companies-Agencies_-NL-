@@ -1662,5 +1662,27 @@
     "visit_address_source": "https://www.lapwingpartners.com/services/rope-access/",
     "map_url": "https://www.google.com/maps/search/?api=1&query=Pastoriestraat%201%2C%203195%20HT%20Pernis",
     "visit_note": "Company-published address; confirm appropriate team and appointment before visit"
+  },
+  {
+    "organization_id": "NL-ORG-0100",
+    "organization_name": "Lars Domenie Hoogtewerken / Strong in Heights",
+    "directory_location": "Etten-Leur",
+    "phones": [
+      "+31 6 52619004"
+    ],
+    "emails": [
+      "info@stronginheights.com"
+    ],
+    "contact_type": "General / business; HR not verified",
+    "source_urls": [
+      "https://www.stronginheights.com/",
+      "https://www.stronginheights.com/over-ons",
+      "https://www.stronginheights.com/diensten"
+    ],
+    "checked_date": "2026-10-11",
+    "visit_address": "Vosdonk 37 A58, 4879 NC Etten-Leur",
+    "visit_address_source": "https://www.stronginheights.com/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Vosdonk%2037%20A58%2C%204879%20NC%20Etten-Leur",
+    "visit_note": "Company-published address; appointment and appropriate team not verified"
   }
 ]

@@ -97,3 +97,7 @@ Full exact query strings retained for this batch:
 - `site:allriggroup.com rope access Netherlands`
 
 [Batch outcomes and eight-method audit](2026-10-10-research.md).
+
+## 2026-10-11 — user-supplied company
+
+Luis supplied https://www.stronginheights.com/ . Reviewed homepage, services, about and Rembrandtoren project pages. Primary service/about evidence confirms Domenie Hoogtewerken's rope access, rigging, scaffolding and rescue work. Added NL-ORG-0100; updated master inventory to 138 named entries and register to 100. Public contact/address retained; IRATA status and vacancies unverified. User discovery, not independent search discovery. No new broad search batch.

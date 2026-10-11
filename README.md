@@ -4,9 +4,9 @@
 
 [Revised research instructions — all eight methods](context/methodology.md#reusable-research-instructions--all-eight-methods)
 
-**99 organizations: 83 contractors/service providers, 10 agencies/platforms and 6 international providers.** Original records reviewed 4–5 October 2026; 13 additions reviewed 10 October 2026. Expanded from 16; not an exhaustive market census.
+**100 organizations: 84 contractors/service providers, 10 agencies/platforms and 6 international providers.** Original records reviewed 4–5 October 2026; 13 additions reviewed 10 October 2026; Domenie Hoogtewerken added 11 October 2026. Expanded from 16; not an exhaustive market census.
 
-[Rotterdam bicycle visits](outreach/rotterdam-visits.md) · [Phones & emails — all 99](outreach/contacts.md)
+[Rotterdam bicycle visits](outreach/rotterdam-visits.md) · [Phones & emails — all 100](outreach/contacts.md)
 
 [Detailed evidence and limitations](directory/netherlands.md) · [Research & context](context/README.md) · [CSV register](data/companies.csv) · [Unresolved leads](research/leads.md)
 
@@ -99,6 +99,7 @@ Company services and staffing evidence are separate from current vacancies. Emai
 | [Glomar Subsea BV / De Onderwaterspecialist](https://glomar-subsea.com/nl/diensten/) | Den Helder | Industrial contractor | Rope access; maritime topside services; subsea inspection and repairs | +31 223 525030 | [operations@glomarsubsea.com](mailto:operations@glomarsubsea.com) | Operations; not HR; Own RA crew versus partner execution unverified; page retains dated 2016 certification planning | [Contact source](https://glomar-subsea.com/nl/diensten/) |
 | [T&R Glas- en Gevelreiniging](https://www.tenrglasengevelreiniging.nl/rope-access/) | Pijnacker | Contractor | Rope access; glass and facade cleaning; inspection; minor repair and assembly | +31 15 2061140<br>+31 6 51696191 | [info@tenrglasengevelreiniging.nl](mailto:info@tenrglasengevelreiniging.nl) | General; Services and Dutch base verified; direct employment and hiring unverified | [Contact source](https://www.tenrglasengevelreiniging.nl/rope-access/) |
 | [Lapwing Partners](https://www.lapwingpartners.com/services/rope-access/) | Pernis | Inspection contractor / partner-supported provider | Rope access; NDT; maritime quality inspection and maintenance | +31 6 31595857 | [info@lapwingpartners.com](mailto:info@lapwingpartners.com) | General; Partner-supported offering; independent rope crew and employment unverified; partner not counted again | [Contact source](https://www.lapwingpartners.com/services/rope-access/) |
+| [Lars Domenie Hoogtewerken / Strong in Heights](https://www.stronginheights.com/) | Etten-Leur | Contractor / service provider | Rope access; rigging; scaffolding; rescue; confined-space support; fall protection | +31 6 52619004 | [info@stronginheights.com](mailto:info@stronginheights.com) | General / business; Service execution evidenced; IRATA status and current hiring unverified | [Contact source](https://www.stronginheights.com/) |
 
 ## Agencies and personnel platforms
 

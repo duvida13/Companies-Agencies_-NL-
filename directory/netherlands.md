@@ -1,6 +1,8 @@
 # Detailed Netherlands directory
 
-99 evidence-supported organizational records. Original records reviewed 2026-10-04; IDs 0087–0099 added/reviewed 2026-10-10. IDs retained from the initial register. Publication/crawl dates are not treated as current operating or hiring confirmation.
+100 evidence-supported organizational records. Original records reviewed 2026-10-04; IDs 0087–0099 added/reviewed 2026-10-10; ID 0100 added/reviewed 2026-10-11. IDs retained from the initial register. Publication/crawl dates are not treated as current operating or hiring confirmation.
+
+This page contains the narrower evidence-supported register. For every company found, including unresolved leads and other researched names, use the [full master list](all-companies.md).
 
 ## NL-ORG-0001 — Adrison BV
 
@@ -1033,4 +1035,16 @@
 - **Checked:** 2026-10-10.
 - **Published address:** [Pastoriestraat 1, 3195 HT Pernis](https://www.google.com/maps/search/?api=1&query=Pastoriestraat%201%2C%203195%20HT%20Pernis). [Address source](https://www.lapwingpartners.com/services/rope-access/). Confirm visit arrangements.
 - **Relationship:** Existing Rope Access Rotterdam is the named delivery partner; this is a distinct advertised provider, not evidence of an additional independent rope crew.
+
+## NL-ORG-0100 — Lars Domenie Hoogtewerken / Strong in Heights
+
+- **Location / connection:** Etten-Leur; Dutch service provider.
+- **Activities:** Rope access; rigging; scaffolding; rescue; confined-space support; fall protection.
+- **Execution evidence:** Company describes rope-access scaffold installation, window cleaning and industrial assembly. [About page](https://www.stronginheights.com/over-ons) · [Services](https://www.stronginheights.com/diensten).
+- **Certification / hiring:** IRATA status and current vacancies not established.
+- **Contacts:** +31 6 52619004; [info@stronginheights.com](mailto:info@stronginheights.com), general business contact; HR unverified.
+- **Published address:** [Vosdonk 37 A58, 4879 NC Etten-Leur](https://www.google.com/maps/search/?api=1&query=Vosdonk%2037%20A58%2C%204879%20NC%20Etten-Leur). [Source](https://www.stronginheights.com/).
+- **Identity:** Strong in Heights is the company's website/branding; counted once with Domenie Hoogtewerken.
+- **Discovery:** Supplied by Luis; not an independent research discovery.
+- **Reviewed:** 2026-10-11.
 
